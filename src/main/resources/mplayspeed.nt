@@ -1,0 +1,59 @@
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/l> .
+<http://id.loc.gov/vocabulary/mplayspeed/l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/l> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1 7/8 ips" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/h> .
+<http://id.loc.gov/vocabulary/mplayspeed/h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "120 rpm" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/c> .
+<http://id.loc.gov/vocabulary/mplayspeed/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "45 rpm" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/k> .
+<http://id.loc.gov/vocabulary/mplayspeed/k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "15/16 ips" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/i> .
+<http://id.loc.gov/vocabulary/mplayspeed/i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/i> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "160 rpm" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/b> .
+<http://id.loc.gov/vocabulary/mplayspeed/b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "33 1/3 rpm" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/e> .
+<http://id.loc.gov/vocabulary/mplayspeed/e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/e> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "8 rpm" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/p> .
+<http://id.loc.gov/vocabulary/mplayspeed/p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/p> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "15 ips" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/d> .
+<http://id.loc.gov/vocabulary/mplayspeed/d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "78 rpm" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/m> .
+<http://id.loc.gov/vocabulary/mplayspeed/m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "3 3/4 ips" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/r> .
+<http://id.loc.gov/vocabulary/mplayspeed/r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "30 ips" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/o> .
+<http://id.loc.gov/vocabulary/mplayspeed/o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/o> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "7 1/2 ips" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/f> .
+<http://id.loc.gov/vocabulary/mplayspeed/f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1.4 m/s" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mplayspeed/a> .
+<http://id.loc.gov/vocabulary/mplayspeed/a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mplayspeed/a> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "16 rpm" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.w3.org/2000/01/rdf-schema#label> "Playing Speed"@en .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Playback speed of the sound recording rendered on a mechanical device. Speed is associated with the kind of item with which it is associated; either disc, cylinder, or tape."@en .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b66iddOtlocdOtgovvocabularymplayspeed .
+_:b66iddOtlocdOtgovvocabularymplayspeed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b66iddOtlocdOtgovvocabularymplayspeed <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b66iddOtlocdOtgovvocabularymplayspeed <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2019-04-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b66iddOtlocdOtgovvocabularymplayspeed <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.w3.org/2004/02/skos/core#definition> "Playback speed of the sound recording rendered on a mechanical device. Speed is associated with the kind of item with which it is associated; either disc, cylinder, or tape."@en .
+<http://id.loc.gov/vocabulary/mplayspeed> <http://www.w3.org/2004/02/skos/core#changeNote> _:b81iddOtlocdOtgovvocabularymplayspeed .
+_:b81iddOtlocdOtgovvocabularymplayspeed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b81iddOtlocdOtgovvocabularymplayspeed <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mplayspeed> .
+_:b81iddOtlocdOtgovvocabularymplayspeed <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b81iddOtlocdOtgovvocabularymplayspeed <http://purl.org/vocab/changeset/schema#createdDate> "2019-04-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b81iddOtlocdOtgovvocabularymplayspeed <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

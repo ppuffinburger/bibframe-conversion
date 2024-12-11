@@ -1,0 +1,34 @@
+<http://id.loc.gov/vocabulary/mgroove> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgroove/micro> .
+<http://id.loc.gov/vocabulary/mgroove/micro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgroove/micro> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microgroove" .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgroove/coarse> .
+<http://id.loc.gov/vocabulary/mgroove/coarse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgroove/coarse> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "coarse groove" .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgroove/vertical> .
+<http://id.loc.gov/vocabulary/mgroove/vertical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgroove/vertical> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "vertical cutting" .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgroove/stanpitch> .
+<http://id.loc.gov/vocabulary/mgroove/stanpitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgroove/stanpitch> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "standard pitch" .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgroove/finepitch> .
+<http://id.loc.gov/vocabulary/mgroove/finepitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgroove/finepitch> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "fine pitch" .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.w3.org/2000/01/rdf-schema#label> "Groove Width/Pitch/Cutting"@en .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Groove width of an analog disc, groove pitch of an analog cylinder, groove cutting"@en .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 344 $d; 007sr/05; 007sr/11"@en .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b32iddOtlocdOtgovvocabularymgroove .
+_:b32iddOtlocdOtgovvocabularymgroove <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b32iddOtlocdOtgovvocabularymgroove <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b32iddOtlocdOtgovvocabularymgroove <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-10-03T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b32iddOtlocdOtgovvocabularymgroove <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.w3.org/2004/02/skos/core#definition> "Groove width of an analog disc, groove pitch of an analog cylinder, groove cutting"@en .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 344 $d; 007sr/05; 007sr/11"@en .
+<http://id.loc.gov/vocabulary/mgroove> <http://www.w3.org/2004/02/skos/core#changeNote> _:b49iddOtlocdOtgovvocabularymgroove .
+_:b49iddOtlocdOtgovvocabularymgroove <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b49iddOtlocdOtgovvocabularymgroove <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mgroove> .
+_:b49iddOtlocdOtgovvocabularymgroove <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b49iddOtlocdOtgovvocabularymgroove <http://purl.org/vocab/changeset/schema#createdDate> "2017-10-03T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b49iddOtlocdOtgovvocabularymgroove <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

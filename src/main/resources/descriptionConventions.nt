@@ -1,0 +1,211 @@
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/ccr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ccr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ccr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chinese cataloging rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrmmss> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmmss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmmss> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare materials (Manuscripts)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/krsb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/krsb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/krsb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Katalogiseringsregler for svenska bibliotek" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/gihc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Graphic materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/pi> .
+<http://id.loc.gov/vocabulary/descriptionConventions/pi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/pi> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Instruktionen für die alphabetischen Kataloge der preussischen Bibliotheken" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrmr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare materials (RDA Edition)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrmg> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare materials (Graphics)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/iosr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/iosr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/iosr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Instruktsiia po opisaniiu slaviano-russkikh rukopisei XI-XIV vv. dlia Svodnogo kataloga rukopisei, khraniashchikhsia v SSSR" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/amremm> .
+<http://id.loc.gov/vocabulary/descriptionConventions/amremm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/amremm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of ancient, medieval, Renaissance, and early-modern manuscripts" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/cco> .
+<http://id.loc.gov/vocabulary/descriptionConventions/cco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/cco> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging cultural objects: a guide to describing cultural works and their images" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrms> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrms> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare materials (Serials)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/kids> .
+<http://id.loc.gov/vocabulary/descriptionConventions/kids> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/kids> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Katalogisierungsregeln Informationsverbund Deutschschweiz" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/hmstcn> .
+<http://id.loc.gov/vocabulary/descriptionConventions/hmstcn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/hmstcn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Handleiding voor de medewerkers aan de STCN" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rdc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rdc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reglas de catalogación" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrmm> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare materials (Music)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/amim> .
+<http://id.loc.gov/vocabulary/descriptionConventions/amim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/amim> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Archival moving image materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/ncafnor> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ncafnor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ncafnor> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Normes de catalogage publiées par l'Association française de normalisation" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/kbsdb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/kbsdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/kbsdb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Katalogiseringsregler og bibliografisk standard for danske biblioteker" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/fobidrtb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/fobidrtb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/fobidrtb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Federatie van Organisaties op het Gebied van het Bibliotheek-Informatie-en Dokumentatiewezen (FOBID) Regels voor de titelbeschrijving" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/din1505> .
+<http://id.loc.gov/vocabulary/descriptionConventions/din1505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/din1505> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Titelangaben von Dokumenten" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rak> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rak> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regeln für die alphabetische Katalogisierung" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrmc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare materials (Cartographic)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rcaa2> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rcaa2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rcaa2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Règles de catalogage anglo-américaines. 2e édition. (Montréal: ASTED)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/pccrda> .
+<http://id.loc.gov/vocabulary/descriptionConventions/pccrda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/pccrda> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC-PCC Metadata Guidance Document" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rna> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rna> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regeln zur Erschließung von Nachlässen und Autographen" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/sscde> .
+<http://id.loc.gov/vocabulary/descriptionConventions/sscde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/sscde> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SCIS standards for cataloguing and data entry" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/ncs> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ncs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ncs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Norme per il catalogo degli stampati" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rda> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Resource description and access" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/fiafcm> .
+<http://id.loc.gov/vocabulary/descriptionConventions/fiafcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/fiafcm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "FIAF moving image cataloguing manual" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/bps> .
+<http://id.loc.gov/vocabulary/descriptionConventions/bps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/bps> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bibliographical procedures and style" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/yuppiak> .
+<http://id.loc.gov/vocabulary/descriptionConventions/yuppiak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/yuppiak> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Verona, Eva. Pravilnik i prirucnik za izradbu abecednih kataloga (Zagreb: Hrvatsko bibliotekarsko drustvo)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/lcmpt> .
+<http://id.loc.gov/vocabulary/descriptionConventions/lcmpt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/lcmpt> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library of Congress medium of performance thesaurus for music" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rad> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rad> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rules for archival description" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrmb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrmb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare materials (Books)" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/ncr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ncr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ncr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nihon mokuroku kisoku" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rpk> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rpk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rpk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rossiiskiie pravila katalogizatsii" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/mmlcc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/mmlcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/mmlcc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manual of map library classification and cataloguing" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcarlisnaaf> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcarlisnaaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcarlisnaaf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Best practices for cataloging artist files using MARC" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/psbo> .
+<http://id.loc.gov/vocabulary/descriptionConventions/psbo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/psbo> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pravila sostavleníìa bibliograficheskogo opisaníìa" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/cgcrb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/cgcrb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/cgcrb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging guidelines for creating Chinese rare book records in machine-reachable form" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/nmxcmdf> .
+<http://id.loc.gov/vocabulary/descriptionConventions/nmxcmdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/nmxcmdf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Norma Mexicana NMX-R-069-SCFI-2016" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/ppiak> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ppiak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ppiak> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pravilnik i prirucnik za izradbu abecednih kataloga" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/appm> .
+<http://id.loc.gov/vocabulary/descriptionConventions/appm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/appm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Archives, personal papers, and manuscripts" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcrb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcrb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging of rare books" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/isbd> .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ISBD: International standard bibliographic description" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/local> .
+<http://id.loc.gov/vocabulary/descriptionConventions/local> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/local> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Locally defined or unknown cataloging rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/crlp> .
+<http://id.loc.gov/vocabulary/descriptionConventions/crlp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/crlp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging rules for the description of looseleaf publications: with special emphasis on legal materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rakddb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rakddb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rakddb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ansetzungsform gemaess der RAK - Anwendung Der Deutschen Bibliothek" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rakwb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rakwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rakwb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regeln für die alphabetische Katalogisierung an wissenschaftlichen Bibliotheken" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/bdrb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/bdrb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/bdrb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bibliographic description of rare books" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/ohcm> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ohcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/ohcm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oral history cataloging manual" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/vd16> .
+<http://id.loc.gov/vocabulary/descriptionConventions/vd16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/vd16> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Formalerschliessung nach dem Verzeichnis der Drucke des 16. Jahrhunderts" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rnab> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rnab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rnab> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "RNAB für Personen-, Familien-, Körperschaftsarchive und Sammlungen" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dcgpm> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcgpm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dcgpm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Descriptive cataloging guidelines for pre-Meiji Japanese books" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/enol> .
+<http://id.loc.gov/vocabulary/descriptionConventions/enol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/enol> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ekspertiza i nauchno-tekhnicheskaia obrabotka lichnykh arkhivnykh fondov: metodicheskiie rekomendatsii" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/katreg> .
+<http://id.loc.gov/vocabulary/descriptionConventions/katreg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/katreg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Katalogiseringsregler" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/pn> .
+<http://id.loc.gov/vocabulary/descriptionConventions/pn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/pn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Provider-neutral e-resource MARC record guidelines" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dacs> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dacs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dacs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Describing archives: a content standard" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/rica> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rica> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regole italiane di catalogazione per autori" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/dmbsb> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dmbsb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/dmbsb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dokumentation av materialets behandling i SB 1700-1829" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/estc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/estc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/estc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "English short title catalogue" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/aacr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anglo-American cataloguing rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/vd17> .
+<http://id.loc.gov/vocabulary/descriptionConventions/vd17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/vd17> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Formalerschliessung nach dem Verzeichnis der Drucke des 17. Jahrhunderts" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/descriptionConventions/kam> .
+<http://id.loc.gov/vocabulary/descriptionConventions/kam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/descriptionConventions/kam> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pravilnik za opis i pristup gardji u knjiznicama, arhivima i muzejima" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.w3.org/2000/01/rdf-schema#label> "Description Conventions"@en .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Description Conventions is a vocabulary that provides URIs for standard rules or guidelines for describing bibliographic resources, commonly called cataloging rules."@en .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 040 $e"@en .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b268iddOtlocdOtgovvocabularydescriptionConventions .
+_:b268iddOtlocdOtgovvocabularydescriptionConventions <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b268iddOtlocdOtgovvocabularydescriptionConventions <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b268iddOtlocdOtgovvocabularydescriptionConventions <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2021-08-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b268iddOtlocdOtgovvocabularydescriptionConventions <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.w3.org/2004/02/skos/core#definition> "Description Conventions is a vocabulary that provides URIs for standard rules or guidelines for describing bibliographic resources, commonly called cataloging rules."@en .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 040 $e"@en .
+<http://id.loc.gov/vocabulary/descriptionConventions> <http://www.w3.org/2004/02/skos/core#changeNote> _:b285iddOtlocdOtgovvocabularydescriptionConventions .
+_:b285iddOtlocdOtgovvocabularydescriptionConventions <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b285iddOtlocdOtgovvocabularydescriptionConventions <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/descriptionConventions> .
+_:b285iddOtlocdOtgovvocabularydescriptionConventions <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b285iddOtlocdOtgovvocabularydescriptionConventions <http://purl.org/vocab/changeset/schema#createdDate> "2021-08-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b285iddOtlocdOtgovvocabularydescriptionConventions <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -1,0 +1,24 @@
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtapeconfig/12> .
+<http://id.loc.gov/vocabulary/mtapeconfig/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtapeconfig/12> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "12 track" .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtapeconfig/8> .
+<http://id.loc.gov/vocabulary/mtapeconfig/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtapeconfig/8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "8 track" .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtapeconfig/full> .
+<http://id.loc.gov/vocabulary/mtapeconfig/full> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtapeconfig/full> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Full track" .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtapeconfig/quarter> .
+<http://id.loc.gov/vocabulary/mtapeconfig/quarter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtapeconfig/quarter> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quarter track" .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtapeconfig/16> .
+<http://id.loc.gov/vocabulary/mtapeconfig/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtapeconfig/16> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "16 track" .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtapeconfig/half> .
+<http://id.loc.gov/vocabulary/mtapeconfig/half> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtapeconfig/half> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Half track" .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.w3.org/2000/01/rdf-schema#label> "Tape Configuration"@en .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Number of tracks on a tape"@en .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mtapeconfig> <http://www.w3.org/2004/02/skos/core#definition> "Number of tracks on a tape"@en .

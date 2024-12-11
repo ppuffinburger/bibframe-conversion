@@ -1,0 +1,88 @@
+<http://id.loc.gov/vocabulary/mencformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/mp4> .
+<http://id.loc.gov/vocabulary/mencformat/mp4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/mp4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MP4 video" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/sacd> .
+<http://id.loc.gov/vocabulary/mencformat/sacd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/sacd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SACD audio" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/vcd> .
+<http://id.loc.gov/vocabulary/mencformat/vcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/vcd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "VCD video" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/wma> .
+<http://id.loc.gov/vocabulary/mencformat/wma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/wma> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "WMA file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/bluray> .
+<http://id.loc.gov/vocabulary/mencformat/bluray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/bluray> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blu-ray" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/gif> .
+<http://id.loc.gov/vocabulary/mencformat/gif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/gif> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GIF image" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/png> .
+<http://id.loc.gov/vocabulary/mencformat/png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/png> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PNG image" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/avi> .
+<http://id.loc.gov/vocabulary/mencformat/avi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/avi> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "AVI file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/mp3> .
+<http://id.loc.gov/vocabulary/mencformat/mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/mp3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MP3 audio" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/html> .
+<http://id.loc.gov/vocabulary/mencformat/html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/html> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "HTML file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/dvda> .
+<http://id.loc.gov/vocabulary/mencformat/dvda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/dvda> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DVD audio" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/pdf> .
+<http://id.loc.gov/vocabulary/mencformat/pdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/pdf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PDF file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/dvdrv> .
+<http://id.loc.gov/vocabulary/mencformat/dvdrv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/dvdrv> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DVD-R video" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/dvdv> .
+<http://id.loc.gov/vocabulary/mencformat/dvdv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/dvdv> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DVD video" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/qtime> .
+<http://id.loc.gov/vocabulary/mencformat/qtime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/qtime> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "QuickTime file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/tiff> .
+<http://id.loc.gov/vocabulary/mencformat/tiff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/tiff> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "TIFF image" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/xml> .
+<http://id.loc.gov/vocabulary/mencformat/xml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/xml> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "XML file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/4kubr> .
+<http://id.loc.gov/vocabulary/mencformat/4kubr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/4kubr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "4K Ultra HD Blu-ray" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/azw3> .
+<http://id.loc.gov/vocabulary/mencformat/azw3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/azw3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "AZW3 file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/jpeg> .
+<http://id.loc.gov/vocabulary/mencformat/jpeg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/jpeg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "JPEG image" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/swf> .
+<http://id.loc.gov/vocabulary/mencformat/swf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/swf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SWF video" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/cda> .
+<http://id.loc.gov/vocabulary/mencformat/cda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/cda> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CD audio" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mencformat/excel> .
+<http://id.loc.gov/vocabulary/mencformat/excel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mencformat/excel> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Excel file" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.w3.org/2000/01/rdf-schema#label> "Encoding Format"@en .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#definitionNote> "A schema or standard used to encode the digital content of a resource."@en .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 347 $b"@en .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b104iddOtlocdOtgovvocabularymencformat .
+_:b104iddOtlocdOtgovvocabularymencformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b104iddOtlocdOtgovvocabularymencformat <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b104iddOtlocdOtgovvocabularymencformat <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2020-03-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b104iddOtlocdOtgovvocabularymencformat <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.w3.org/2004/02/skos/core#definition> "A schema or standard used to encode the digital content of a resource."@en .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 347 $b"@en .
+<http://id.loc.gov/vocabulary/mencformat> <http://www.w3.org/2004/02/skos/core#changeNote> _:b121iddOtlocdOtgovvocabularymencformat .
+_:b121iddOtlocdOtgovvocabularymencformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b121iddOtlocdOtgovvocabularymencformat <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mencformat> .
+_:b121iddOtlocdOtgovvocabularymencformat <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b121iddOtlocdOtgovvocabularymencformat <http://purl.org/vocab/changeset/schema#createdDate> "2020-03-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b121iddOtlocdOtgovvocabularymencformat <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -1,0 +1,653 @@
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/msdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/msdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/msdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mississippi state government publications. Vol. 1, July 1975/June 1980" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cadocs> .
+<http://id.loc.gov/vocabulary/classSchemes/cadocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cadocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "California state agency classification scheme" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/no-ujur-cnip> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ujur-cnip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ujur-cnip> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "NifsP-klassifikasjon" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbkm> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tablitsy bibliotechno-bibliograficheskoi klassifikatsii dlíà massovykh bibliotek v 1. t." .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/codocs> .
+<http://id.loc.gov/vocabulary/classSchemes/codocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/codocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Colorado State Publications Depository and Distribution Center. Classification schedule" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/skb> .
+<http://id.loc.gov/vocabulary/classSchemes/skb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/skb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sachbuch-Systematik für Katholische öffentliche Büchereien" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fnb> .
+<http://id.loc.gov/vocabulary/classSchemes/fnb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fnb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fundstellennachweis FNB" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbk> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tablitsy bibliotechno-bibliograficheskoi klassifikatsii dlíà nauchnykh bibliotek v 30-ti tomakh" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cstud> .
+<http://id.loc.gov/vocabulary/classSchemes/cstud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cstud> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classificatieschema's Bibliotheek TU Delft" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/undocs> .
+<http://id.loc.gov/vocabulary/classSchemes/undocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/undocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United Nations document series symbols: 1946-77 cumulative" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/iadocs> .
+<http://id.loc.gov/vocabulary/classSchemes/iadocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/iadocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification of Iowa state documents" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/mtlc> .
+<http://id.loc.gov/vocabulary/classSchemes/mtlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/mtlc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification of Medialab Tabakalera Library" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/pcev> .
+<http://id.loc.gov/vocabulary/classSchemes/pcev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/pcev> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plan de classement des enregistrements vidéo musicaux" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc22> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc22> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 022" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ohdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/ohdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ohdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ohio documents classification scheme" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc14> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc14> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 014" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rich> .
+<http://id.loc.gov/vocabulary/classSchemes/rich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rich> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Richardson classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/vsiso> .
+<http://id.loc.gov/vocabulary/classSchemes/vsiso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/vsiso> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vlaamse SISO [schema voor de indeling van de systematische catalogus in openbare bibliotheken]" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/sudocs> .
+<http://id.loc.gov/vocabulary/classSchemes/sudocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/sudocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Superintendent of Documents classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/lndn> .
+<http://id.loc.gov/vocabulary/classSchemes/lndn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/lndn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "League of Nations document numbers" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/mpkkl> .
+<http://id.loc.gov/vocabulary/classSchemes/mpkkl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/mpkkl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maanpuolustuskorkeakoulun kirjaston luokitusjärjestelmä" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rilm> .
+<http://id.loc.gov/vocabulary/classSchemes/rilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rilm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "RILM classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ubtkl2> .
+<http://id.loc.gov/vocabulary/classSchemes/ubtkl2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ubtkl2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassifikasjonsskjema (Trondheim: Fellesbiblioteket, Kongelige Norske videnskabers selskab, Museet, Norges lærerhøgskole)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/celex> .
+<http://id.loc.gov/vocabulary/classSchemes/celex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/celex> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CELEX document number" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/kktb> .
+<http://id.loc.gov/vocabulary/classSchemes/kktb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/kktb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kokuritsu kokkai toshokan bunruihyo = National Diet Library classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/txdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/txdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/txdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Texas state documents classification & almost compleat [sic] list of Texas state agencies from statehood to the present" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbknp> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbknp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbknp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pereizdanidiíà tablits bibliotechno-bibliograficheskoi klassifikatsii dlíà nauchnykh bibliotek v 30-ti tomakh" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/inspec> .
+<http://id.loc.gov/vocabulary/classSchemes/inspec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/inspec> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "INSPEC classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/udc> .
+<http://id.loc.gov/vocabulary/classSchemes/udc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/udc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Universal decimal classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/agift> .
+<http://id.loc.gov/vocabulary/classSchemes/agift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/agift> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Australian Governments' interactive functions thesaurus (AGIFT)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/frtav> .
+<http://id.loc.gov/vocabulary/classSchemes/frtav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/frtav> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Referentiel du format INTERMAC Bibliographique: Audiovisuel - Matière generale" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rswk> .
+<http://id.loc.gov/vocabulary/classSchemes/rswk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rswk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regeln für den Schlagwortkatalog" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc13> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc13> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 013" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/whulcs> .
+<http://id.loc.gov/vocabulary/classSchemes/whulcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/whulcs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "WHU Library classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nwbib> .
+<http://id.loc.gov/vocabulary/classSchemes/nwbib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nwbib> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nordrhein-Westfälische Bibliographie" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbks> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbks> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bibliotechno-bibliograficheskaíà klassifikatsiíàe: Srednye tablitsy" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/accs> .
+<http://id.loc.gov/vocabulary/classSchemes/accs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/accs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Annehurst curriculum classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc8> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 08" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/farl> .
+<http://id.loc.gov/vocabulary/classSchemes/farl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/farl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Frick Art Reference Library book classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/siblcs> .
+<http://id.loc.gov/vocabulary/classSchemes/siblcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/siblcs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sibelius-Akatemian kirjaston luokitusjärjestelmä - kirjojen luokitus; Sibelius-Akatemian nuottien luokitus" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/clutscny> .
+<http://id.loc.gov/vocabulary/classSchemes/clutscny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/clutscny> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification of the library of Union Theological Seminary in the City of New York" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbkk> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tablitsy bibliotechno-bibliograficheskoi klassifikatsii dlíà kraevedcheskikh katalogov bibliotek" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/chfbn> .
+<http://id.loc.gov/vocabulary/classSchemes/chfbn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/chfbn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification de l'histoire de France" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/srnlc> .
+<http://id.loc.gov/vocabulary/classSchemes/srnlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/srnlc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Taideyliopiston kirjaston Sörnäisten kampuksen luokitus = University of Arts Helsinki Library Sörnäinen Campus Classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc2> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 02" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ncdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/ncdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ncdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification scheme for North Carolina state publications: as applied to the documents collection of the N.C. Dept. of Cultural Resources" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/pcesm> .
+<http://id.loc.gov/vocabulary/classSchemes/pcesm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/pcesm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plan de classement des enregistrements sonores musicaux" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fcps> .
+<http://id.loc.gov/vocabulary/classSchemes/fcps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fcps> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Class FC: a classification for Canadian history, Class PS8000: a classification for Canadian literature" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/agrissc> .
+<http://id.loc.gov/vocabulary/classSchemes/agrissc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/agrissc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "AGRIS: subject categories" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc19> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc19> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 019" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/okdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/okdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/okdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oklahoma state documents classification and list of Oklahoma state agencies from statehood to the present" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc21> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc21> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 021" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/upsylon> .
+<http://id.loc.gov/vocabulary/classSchemes/upsylon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/upsylon> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "UPSYLON: classification systématique de la Bibliothèque de la Faculté de psychologie et des sciences de l'éducation de l'Université catholique de Louvain" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/utdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/utdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/utdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Utah documents classification schedules" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/uef> .
+<http://id.loc.gov/vocabulary/classSchemes/uef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/uef> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Itä-Suomen yliopiston kokoelmaluokitus = Collection classification of The University of Eastern Finland" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc15> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc15> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 015" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/tykoma> .
+<http://id.loc.gov/vocabulary/classSchemes/tykoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/tykoma> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Turun yliopiston kirjaston vanha luokitus" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/jstormcs> .
+<http://id.loc.gov/vocabulary/classSchemes/jstormcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/jstormcs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "JSTOR multidisciplinary classification scheme" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc9> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 09" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbkd> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tablitsy bibliotechno-bibliograficheskoi klassifikatsii dlíà detskikh bibliotek v 1 t." .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nasasscg> .
+<http://id.loc.gov/vocabulary/classSchemes/nasasscg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nasasscg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "NASA scope and subject category guide" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bcmc> .
+<http://id.loc.gov/vocabulary/classSchemes/bcmc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bcmc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coates, E.J. The British catalogue of music classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/jelc> .
+<http://id.loc.gov/vocabulary/classSchemes/jelc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/jelc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Journal of Economic Literature (JEL) classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/oosk> .
+<http://id.loc.gov/vocabulary/classSchemes/oosk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/oosk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oversikt over systematisk katalog" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/kuvacs> .
+<http://id.loc.gov/vocabulary/classSchemes/kuvacs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/kuvacs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kuvataideakatemian kirjaston luokitusjärjestelmä = Finnish Academy of Fine Arts Library Classification = Bildkonstakademins biblioteks klassifikationssystem" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/misklass> .
+<http://id.loc.gov/vocabulary/classSchemes/misklass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/misklass> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassifikasjonsskjema (Stavenger: Misjonshogskolen)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cidades> .
+<http://id.loc.gov/vocabulary/classSchemes/cidades> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cidades> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cidades@" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc3> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 03" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/kssb> .
+<http://id.loc.gov/vocabulary/classSchemes/kssb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/kssb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassifikationssystem for svenska bibliotek" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/gestsk> .
+<http://id.loc.gov/vocabulary/classSchemes/gestsk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/gestsk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Title index to the catalogue of the Gest Oriental Library compiled by I.V. Gillis and Pai Ping-ch'i" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/laclaw> .
+<http://id.loc.gov/vocabulary/classSchemes/laclaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/laclaw> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Los Angeles County Law Library, class K-Law" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbkn> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tablitsy bibliotechno-bibliograficheskoi klassifikatsii dlíà nauchnykh bibliotek v 4-kh tomakh" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rueskl> .
+<http://id.loc.gov/vocabulary/classSchemes/rueskl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rueskl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Edinaíà skhema klassifikatsii literatury dlíà knigoizdaniíà v SSSR" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/acmccs> .
+<http://id.loc.gov/vocabulary/classSchemes/acmccs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/acmccs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ACM computing classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/gadocs> .
+<http://id.loc.gov/vocabulary/classSchemes/gadocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/gadocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Official publications of the State of Georgia: list of classes with index by name of agency and subject/keyword" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/dfg> .
+<http://id.loc.gov/vocabulary/classSchemes/dfg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/dfg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DFG-Fachsystematik" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/sfb> .
+<http://id.loc.gov/vocabulary/classSchemes/sfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/sfb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SfB: Systematik für Bibliotheken" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/wydocs> .
+<http://id.loc.gov/vocabulary/classSchemes/wydocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/wydocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "WyDocs: the Wyoming state documents classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/taykl> .
+<http://id.loc.gov/vocabulary/classSchemes/taykl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/taykl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tampereen yliopiston kirjaston luokitus: Systemaattinen osa & Aakkosellinen osa" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/egedeklass> .
+<http://id.loc.gov/vocabulary/classSchemes/egedeklass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/egedeklass> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Egede-instituttets klassifikasjonsystem" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ncsclt> .
+<http://id.loc.gov/vocabulary/classSchemes/ncsclt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ncsclt> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "New classification scheme for Chinese libraries" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/methepp> .
+<http://id.loc.gov/vocabulary/classSchemes/methepp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/methepp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Methode Eppelsheimer" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/thema> .
+<http://id.loc.gov/vocabulary/classSchemes/thema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/thema> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thema" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/asb> .
+<http://id.loc.gov/vocabulary/classSchemes/asb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/asb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Allgemeine Systematik für öffentliche Bibliotheken (ASB)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cddir> .
+<http://id.loc.gov/vocabulary/classSchemes/cddir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cddir> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classifiação decimal de direito (CDDIR)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc4> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 04" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/kab> .
+<http://id.loc.gov/vocabulary/classSchemes/kab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/kab> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassifikation für Allgemeinbibliotheken" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/mmlcc> .
+<http://id.loc.gov/vocabulary/classSchemes/mmlcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/mmlcc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manual of map library classification and cataloguing" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/pim> .
+<http://id.loc.gov/vocabulary/classSchemes/pim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/pim> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PIM [Presentatiesysteem Informatieve Media]" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/blissc> .
+<http://id.loc.gov/vocabulary/classSchemes/blissc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/blissc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "British Library Inside service subject classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/gfdc> .
+<http://id.loc.gov/vocabulary/classSchemes/gfdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/gfdc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Global forest decimal classification (GFDC)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/niv> .
+<http://id.loc.gov/vocabulary/classSchemes/niv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/niv> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Norsk inndeling av vitenskapsdisipliner" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/sddocs> .
+<http://id.loc.gov/vocabulary/classSchemes/sddocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/sddocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "[South Dakota] State documents classification schedule" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/scdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/scdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/scdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "South Carolina state documents classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/isced> .
+<http://id.loc.gov/vocabulary/classSchemes/isced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/isced> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "International Standard Classification of Education (ISCED)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fna> .
+<http://id.loc.gov/vocabulary/classSchemes/fna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fna> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fundstellennachweis FNA" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/njb> .
+<http://id.loc.gov/vocabulary/classSchemes/njb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/njb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nihon jisshin bunruihō = Nippon decimal classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ksdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/ksdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ksdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "State documents of Kansas: list of classes" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/padocs> .
+<http://id.loc.gov/vocabulary/classSchemes/padocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/padocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification scheme for Pennsylvania state publications" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rvk> .
+<http://id.loc.gov/vocabulary/classSchemes/rvk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rvk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regensburger Verbundklassifikation (RVK)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc20> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc20> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 020" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ivdcc> .
+<http://id.loc.gov/vocabulary/classSchemes/ivdcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ivdcc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "intranda viewer digital collection classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rugasnti> .
+<http://id.loc.gov/vocabulary/classSchemes/rugasnti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rugasnti> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rubrikator Gosudarstvennoi avtomatizirovannoi sistemy nauchno-tekhnicheskoi informatsii" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nlm> .
+<http://id.loc.gov/vocabulary/classSchemes/nlm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nlm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National Library of Medicine classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/noterlyd> .
+<http://id.loc.gov/vocabulary/classSchemes/noterlyd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/noterlyd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassifikasjonssystem for noter og lydopptak = Music classification system (Sheet music and recordings)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bliss> .
+<http://id.loc.gov/vocabulary/classSchemes/bliss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bliss> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "BLISS bibliographic classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/zdbs> .
+<http://id.loc.gov/vocabulary/classSchemes/zdbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/zdbs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ZDB-Systematik = ZDB-Classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fivr> .
+<http://id.loc.gov/vocabulary/classSchemes/fivr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fivr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "FIV-Regionalklassifikation" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cjurrom> .
+<http://id.loc.gov/vocabulary/classSchemes/cjurrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cjurrom> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification juridique romande" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/z> .
+<http://id.loc.gov/vocabulary/classSchemes/z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other [used when a source code has not yet been assigned to a classification scheme]" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bizga> .
+<http://id.loc.gov/vocabulary/classSchemes/bizga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bizga> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bibliographie zur Geschichte der Deutschen Arbeiterbewegung" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/geothes> .
+<http://id.loc.gov/vocabulary/classSchemes/geothes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/geothes> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GEOTHES geographical classification scheme" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/mu> .
+<http://id.loc.gov/vocabulary/classSchemes/mu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/mu> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clasificación musical de la Bibliografía Nacional de España" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bsbddc> .
+<http://id.loc.gov/vocabulary/classSchemes/bsbddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bsbddc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassification für die Sacherschließung (BSB-DDC)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/sswd> .
+<http://id.loc.gov/vocabulary/classSchemes/sswd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/sswd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Subject Classes of the Schlagwortnormdatei" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/stub> .
+<http://id.loc.gov/vocabulary/classSchemes/stub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/stub> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Systematik der TUB München" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fldocs> .
+<http://id.loc.gov/vocabulary/classSchemes/fldocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fldocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "A Keyword-in-context to Florida public documents in the Florida Atlantic University Library" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cutterec> .
+<http://id.loc.gov/vocabulary/classSchemes/cutterec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cutterec> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cutter, Charles Ammi. Expansive classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/dk5s> .
+<http://id.loc.gov/vocabulary/classSchemes/dk5s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/dk5s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DK5 Systematik" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/loovs> .
+<http://id.loc.gov/vocabulary/classSchemes/loovs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/loovs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Løøvs klassifikationssystem" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cslj> .
+<http://id.loc.gov/vocabulary/classSchemes/cslj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cslj> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Elazar, David H. & Elazar, Daniel J. A classification system for libraries of Judaica" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bisacsh> .
+<http://id.loc.gov/vocabulary/classSchemes/bisacsh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bisacsh> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "BISAC subject headings" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/veera> .
+<http://id.loc.gov/vocabulary/classSchemes/veera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/veera> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "VEERA-luokitus = VEERA-классификация" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ardocs> .
+<http://id.loc.gov/vocabulary/classSchemes/ardocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ardocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arkansas state documents classification scheme" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ccd> .
+<http://id.loc.gov/vocabulary/classSchemes/ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ccd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Xue ke fen lei yu dai ma = GB/T 13745-2009 Classification and code of disciplines" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ipc> .
+<http://id.loc.gov/vocabulary/classSchemes/ipc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ipc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "International patent classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ladocs> .
+<http://id.loc.gov/vocabulary/classSchemes/ladocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ladocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Louisiana documents classification schedule" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/roy> .
+<http://id.loc.gov/vocabulary/classSchemes/roy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/roy> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification Roy" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/blsrissc> .
+<http://id.loc.gov/vocabulary/classSchemes/blsrissc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/blsrissc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "British Library - Science reference information service subject classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc11> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc11> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 011" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/swank> .
+<http://id.loc.gov/vocabulary/classSchemes/swank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/swank> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Swank, Raynard Coe. A classification for state, county, and municipal documents" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rpb> .
+<http://id.loc.gov/vocabulary/classSchemes/rpb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rpb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rheinland-Pfälzische Bibliographie" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc17> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc17> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 017" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/dopaed> .
+<http://id.loc.gov/vocabulary/classSchemes/dopaed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/dopaed> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DOPAED der UB Erlangen" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cacodoc> .
+<http://id.loc.gov/vocabulary/classSchemes/cacodoc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cacodoc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CODOC [Canadian federal and provincial government documents classification scheme]" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bwlb> .
+<http://id.loc.gov/vocabulary/classSchemes/bwlb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bwlb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Landesbibliographie Baden-Württemberg" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fiaf> .
+<http://id.loc.gov/vocabulary/classSchemes/fiaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fiaf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moulds, Michael. Classification scheme for literature on film and television" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nydocs> .
+<http://id.loc.gov/vocabulary/classSchemes/nydocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nydocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "New York state documents: an introductory manual" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/pcjv> .
+<http://id.loc.gov/vocabulary/classSchemes/pcjv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/pcjv> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plan de classement des jeux vidéo" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/utklklass> .
+<http://id.loc.gov/vocabulary/classSchemes/utklklass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/utklklass> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "L-klassifikasjon" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ykl> .
+<http://id.loc.gov/vocabulary/classSchemes/ykl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ykl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yleisten kirjastojen luokitusjärjestelmä = Finnish public libraries classification system [former code: fplcs]" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/no-ujur-cmr> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ujur-cmr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ujur-cmr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Menneskerettighets-klassifikasjon" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nhcp> .
+<http://id.loc.gov/vocabulary/classSchemes/nhcp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nhcp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "NH classification for photography" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ridocs> .
+<http://id.loc.gov/vocabulary/classSchemes/ridocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ridocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alphabetical list of state agencies and corresponding Swank classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc10> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc10> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 010" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nicem> .
+<http://id.loc.gov/vocabulary/classSchemes/nicem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nicem> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "NICEM subject headings and classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/kfmod> .
+<http://id.loc.gov/vocabulary/classSchemes/kfmod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/kfmod> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "KF classification, modified for use in Canadian law libraries" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc16> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc16> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 016" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/no-ureal-cb> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ureal-cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ureal-cb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biologisk hylleoppstilling" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/usgslcs> .
+<http://id.loc.gov/vocabulary/classSchemes/usgslcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/usgslcs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "U.S. Geological Survey library classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bar> .
+<http://id.loc.gov/vocabulary/classSchemes/bar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bar> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Barnard, Cyril C. A classification for medical and veterinary libraries" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/widocs> .
+<http://id.loc.gov/vocabulary/classSchemes/widocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/widocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Organizing Wisconsin public documents: cataloging and classification of documents at the State Historical Society Library" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/lcc> .
+<http://id.loc.gov/vocabulary/classSchemes/lcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/lcc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library of Congress classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/utk> .
+<http://id.loc.gov/vocabulary/classSchemes/utk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/utk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "University of Oslo Library classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fid> .
+<http://id.loc.gov/vocabulary/classSchemes/fid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fid> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fachinformationsdienste für die Wissenschaft (FID)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/midocs> .
+<http://id.loc.gov/vocabulary/classSchemes/midocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/midocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Michigan documents classification scheme" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/azdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/azdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/azdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arizona documents: KWOC manual" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/msc> .
+<http://id.loc.gov/vocabulary/classSchemes/msc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/msc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mathematical subject classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nvdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/nvdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nvdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nevada state documents" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ccpgq> .
+<http://id.loc.gov/vocabulary/classSchemes/ccpgq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ccpgq> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cadre de classement des publications gouvernementales du Québec" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc5> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 05" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bkl> .
+<http://id.loc.gov/vocabulary/classSchemes/bkl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bkl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Basisklassification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/agricola> .
+<http://id.loc.gov/vocabulary/classSchemes/agricola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/agricola> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "AGRICOLA subject category codes" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ifzs> .
+<http://id.loc.gov/vocabulary/classSchemes/ifzs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ifzs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Systematik der IfZ-Bibliothek" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc18> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc18> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 018" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/sbb> .
+<http://id.loc.gov/vocabulary/classSchemes/sbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/sbb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Systematik der Bayerischen Bibliographie" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/gccn> .
+<http://id.loc.gov/vocabulary/classSchemes/gccn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/gccn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Government of Canada catalogue number" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/bcl> .
+<http://id.loc.gov/vocabulary/classSchemes/bcl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/bcl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nederlandse Basisclassificatie = Dutch basic classification codes" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc6> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 06" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/anscr> .
+<http://id.loc.gov/vocabulary/classSchemes/anscr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/anscr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "The Alpha-numeric system for classification of recordings" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/dhb-jdgklass> .
+<http://id.loc.gov/vocabulary/classSchemes/dhb-jdgklass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/dhb-jdgklass> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deutsche Historische Bibliografie - Jahresberichte für deutsche Geschichte - Klassifikation (Bibliography of German History - Annual Bibliography on German History - Classification)" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbkmv> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkmv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbkmv> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tablitsy bibliotechno-bibliograficheskoi klassifikatsii dlíà massovykh voennykh bibliotek" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cscjb> .
+<http://id.loc.gov/vocabulary/classSchemes/cscjb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cscjb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "A Classification scheme for Chinese and Japanese books" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/mpilcs> .
+<http://id.loc.gov/vocabulary/classSchemes/mpilcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/mpilcs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MPI Luxembourg classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/no-ureal-cg> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ureal-cg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ureal-cg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geofysikk oppstillingssystem" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/siso> .
+<http://id.loc.gov/vocabulary/classSchemes/siso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/siso> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Schema voor de Indeling van de Systematische Catalogus in Openbare Bibliotheken" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/teatkl> .
+<http://id.loc.gov/vocabulary/classSchemes/teatkl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/teatkl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teatterikorkeakoulun kirjaston luokitusopas = Theatre Academy classification guide = Teatterikorkeakoulun luokitusopas" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/no-ureal-ca> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ureal-ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/no-ureal-ca> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Astrofysikk" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ordocs> .
+<http://id.loc.gov/vocabulary/classSchemes/ordocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ordocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "OrDocs: history authority list and classification scheme for Oregon state agencies" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ssd> .
+<http://id.loc.gov/vocabulary/classSchemes/ssd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ssd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Systematik: Stadtbücherei Duisburg: Buchaufstellung und Ordnung des systematischen Kataloges" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/finagri> .
+<http://id.loc.gov/vocabulary/classSchemes/finagri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/finagri> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Finagri-luokitus" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/suaslc> .
+<http://id.loc.gov/vocabulary/classSchemes/suaslc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/suaslc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Seinäjoen korkeakoulukirjaston luokitus" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/pssppbkj> .
+<http://id.loc.gov/vocabulary/classSchemes/pssppbkj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/pssppbkj> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Popis strucnih skupina i svih podskupina s podacima o broju kataloskih jedinica" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ics> .
+<http://id.loc.gov/vocabulary/classSchemes/ics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ics> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "International classification for standards" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/flarch> .
+<http://id.loc.gov/vocabulary/classSchemes/flarch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/flarch> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Florida State Archives arrangement and description procedures manual" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc7> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 07" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc23> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc23> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 023" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/farma> .
+<http://id.loc.gov/vocabulary/classSchemes/farma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/farma> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oversigt over systematisk catalog" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nbdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/nbdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nbdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guide to Nebraska state agencies: state publications classification and ordering directory" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/cmedlit> .
+<http://id.loc.gov/vocabulary/classSchemes/cmedlit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/cmedlit> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classification for medical literature by Eileen R. Cunningham" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc1> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 01" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/modocs> .
+<http://id.loc.gov/vocabulary/classSchemes/modocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/modocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Missouri state documents classification: post-reorganization agency codes and form divisions" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/rubbko> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/rubbko> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tablitsy bibliotechno-bibliograficheskoi klassifikatsii dlíà oblastvykh bibliotek v 4-kh tomakh" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/smm> .
+<http://id.loc.gov/vocabulary/classSchemes/smm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/smm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Systematik des Musikschrifttums u.d. Musikalien fr ffentl. Musikbibliotheken SMM" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ssgn> .
+<http://id.loc.gov/vocabulary/classSchemes/ssgn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ssgn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sondersammelgebiets-Nummer" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/wadocs> .
+<http://id.loc.gov/vocabulary/classSchemes/wadocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/wadocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Washington State Library state documents collection: state documents call number" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/nmdocs> .
+<http://id.loc.gov/vocabulary/classSchemes/nmdocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/nmdocs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "New Mexico state documents classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/utklklassex> .
+<http://id.loc.gov/vocabulary/classSchemes/utklklassex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/utklklassex> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "L-klassifikasjon with extensions" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/naics> .
+<http://id.loc.gov/vocabulary/classSchemes/naics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/naics> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "North American industry classification system" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/knt> .
+<http://id.loc.gov/vocabulary/classSchemes/knt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/knt> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassifikasjonsnøkkel til norsk topografi" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ekl> .
+<http://id.loc.gov/vocabulary/classSchemes/ekl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ekl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eduskunnan kirjaston luokitus = Library of Parliament Classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/clc> .
+<http://id.loc.gov/vocabulary/classSchemes/clc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/clc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zhongguo tu shu guan fen lei fa = Chinese library classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/taikclas> .
+<http://id.loc.gov/vocabulary/classSchemes/taikclas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/taikclas> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Taideteollisen korkeakoulun kirjaston luokitus = University of Art and Design Helsinki Library Classification" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/iconclass> .
+<http://id.loc.gov/vocabulary/classSchemes/iconclass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/iconclass> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Iconclass" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/fivs> .
+<http://id.loc.gov/vocabulary/classSchemes/fivs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/fivs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "FIV-Sachklassifikation" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/sdnb> .
+<http://id.loc.gov/vocabulary/classSchemes/sdnb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/sdnb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Systematik der Deutschen Nationalbibliographie" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ddc12> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ddc12> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dewey decimal classification and relative index Edition 012" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/ghbs> .
+<http://id.loc.gov/vocabulary/classSchemes/ghbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/ghbs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GHB-Aufstellungssystematik: HBZ Köln" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/scia> .
+<http://id.loc.gov/vocabulary/classSchemes/scia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/scia> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Schema di classificazione infanzia e adolescenza" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/moys> .
+<http://id.loc.gov/vocabulary/classSchemes/moys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/moys> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moys, Elizabeth M. Moys classification and thesaurus for legal materials" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/classSchemes/mf-klass> .
+<http://id.loc.gov/vocabulary/classSchemes/mf-klass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/classSchemes/mf-klass> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klassifikasjonssystemet ved Menighetsfakultetes bibliotek" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.w3.org/2000/01/rdf-schema#label> "Classification Schemes"@en .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Classification Schemes contains a list of classification schemes and assigns a URI to each scheme. The purpose of these properties is to permit users to associate classification numbers with the appropriate classification scheme. An individual URI has been assigned for each edition of Dewey."@en .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b858iddOtlocdOtgovvocabularyclassSchemes .
+_:b858iddOtlocdOtgovvocabularyclassSchemes <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b858iddOtlocdOtgovvocabularyclassSchemes <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b858iddOtlocdOtgovvocabularyclassSchemes <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2020-10-14T00:00:00/dlc"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b858iddOtlocdOtgovvocabularyclassSchemes <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/2020-10-14T00:00:00/dlc> .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.w3.org/2004/02/skos/core#definition> "Classification Schemes contains a list of classification schemes and assigns a URI to each scheme. The purpose of these properties is to permit users to associate classification numbers with the appropriate classification scheme. An individual URI has been assigned for each edition of Dewey."@en .
+<http://id.loc.gov/vocabulary/classSchemes> <http://www.w3.org/2004/02/skos/core#changeNote> _:b873iddOtlocdOtgovvocabularyclassSchemes .
+_:b873iddOtlocdOtgovvocabularyclassSchemes <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b873iddOtlocdOtgovvocabularyclassSchemes <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/classSchemes> .
+_:b873iddOtlocdOtgovvocabularyclassSchemes <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/2020-10-14T00:00:00/dlc> .
+_:b873iddOtlocdOtgovvocabularyclassSchemes <http://purl.org/vocab/changeset/schema#createdDate> "2020-10-14T00:00:00/dlc"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b873iddOtlocdOtgovvocabularyclassSchemes <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

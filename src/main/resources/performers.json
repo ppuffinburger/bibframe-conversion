@@ -1,0 +1,378 @@
+[
+	{
+		"code": "ba",
+		"type": "brass",
+		"label": "horn"
+	},
+	{
+		"code": "bb",
+		"type": "brass",
+		"label": "trumpet"
+	},
+	{
+		"code": "bc",
+		"type": "brass",
+		"label": "coronet"
+	},
+	{
+		"code": "bd",
+		"type": "brass",
+		"label": "trombone"
+	},
+	{
+		"code": "be",
+		"type": "brass",
+		"label": "tuba"
+	},
+	{
+		"code": "bf",
+		"type": "brass",
+		"label": "baritone"
+	},
+	{
+		"code": "bn",
+		"type": "brass"
+	},
+	{
+		"code": "by",
+		"type": "brass, ethnic"
+	},
+	{
+		"code": "ca",
+		"type": "chorus",
+		"label": "mixed chorus"
+	},
+	{
+		"code": "cb",
+		"type": "chorus",
+		"label": "female chorus"
+	},
+	{
+		"code": "cc",
+		"type": "chorus",
+		"label": "male chorus"
+	},
+	{
+		"code": "cd",
+		"type": "chorus",
+		"label": "children chorus"
+	},
+	{
+		"code": "cn",
+		"type": "chorus"
+	},
+	{
+		"code": "cy",
+		"type": "chorus, ethnic"
+	},
+	{
+		"code": "ea",
+		"type": "electronic",
+		"label": "electronic synthesizer"
+	},
+	{
+		"code": "eb",
+		"type": "electronic",
+		"label": "electronic tape"
+	},
+	{
+		"code": "ec",
+		"type": "electronic",
+		"label": "computer"
+	},
+	{
+		"code": "ed",
+		"type": "electronic",
+		"label": "ondes martinot"
+	},
+	{
+		"code": "en",
+		"type": "electronic"
+	},
+	{
+		"code": "ka",
+		"type": "keyboard",
+		"label": "piano"
+	},
+	{
+		"code": "kb",
+		"type": "keyboard",
+		"label": "organ"
+	},
+	{
+		"code": "kc",
+		"type": "keyboard",
+		"label": "harpsichord"
+	},
+	{
+		"code": "kd",
+		"type": "keyboard",
+		"label": "clavichord"
+	},
+	{
+		"code": "ke",
+		"type": "keyboard",
+		"label": "continuo"
+	},
+	{
+		"code": "kf",
+		"type": "keyboard",
+		"label": "celeste"
+	},
+	{
+		"code": "kn",
+		"type": "keyboard"
+	},
+	{
+		"code": "ky",
+		"type": "keyboard, ethnic"
+	},
+	{
+		"code": "oa",
+		"type": "instrumental",
+		"label": "orchestra"
+	},
+	{
+		"code": "ob",
+		"type": "instrumental",
+		"label": "chamber orchestra"
+	},
+	{
+		"code": "oc",
+		"type": "instrumental",
+		"label": "string orchestra"
+	},
+	{
+		"code": "od",
+		"type": "instrumental",
+		"label": "band"
+	},
+	{
+		"code": "oe",
+		"type": "instrumental",
+		"label": "dance orchestra"
+	},
+	{
+		"code": "of",
+		"type": "instrumental",
+		"label": "brass band"
+	},
+	{
+		"code": "on",
+		"type": "instrumental"
+	},
+	{
+		"code": "oy",
+		"type": "instrumental, ethnic"
+	},
+	{
+		"code": "pa",
+		"type": "percussion",
+		"label": "timpani"
+	},
+	{
+		"code": "pb",
+		"type": "percussion",
+		"label": "xylophone"
+	},
+	{
+		"code": "pc",
+		"type": "percussion",
+		"label": "marimba"
+	},
+	{
+		"code": "pd",
+		"type": "percussion",
+		"label": "drum"
+	},
+	{
+		"code": "pn",
+		"type": "percussion"
+	},
+	{
+		"code": "py",
+		"type": "percussion, ethnic"
+	},
+	{
+		"code": "sa",
+		"type": "string, bowed",
+		"label": "violin"
+	},
+	{
+		"code": "sb",
+		"type": "string, bowed",
+		"label": "viola"
+	},
+	{
+		"code": "sc",
+		"type": "string, bowed",
+		"label": "violoncello"
+	},
+	{
+		"code": "sd",
+		"type": "string, bowed",
+		"label": "double bass"
+	},
+	{
+		"code": "se",
+		"type": "string, bowed",
+		"label": "viol"
+	},
+	{
+		"code": "sf",
+		"type": "string, bowed",
+		"label": "viola d'amore"
+	},
+	{
+		"code": "sg",
+		"type": "string, bowed",
+		"label": "viola da gamba"
+	},
+	{
+		"code": "sn",
+		"type": "string, bowed"
+	},
+	{
+		"code": "sy",
+		"type": "string, bowed, ethnic"
+	},
+	{
+		"code": "ta",
+		"type": "string, plucked",
+		"label": "harp"
+	},
+	{
+		"code": "tb",
+		"type": "string, plucked",
+		"label": "guitar"
+	},
+	{
+		"code": "tc",
+		"type": "string, plucked",
+		"label": "lute"
+	},
+	{
+		"code": "td",
+		"type": "string, plucked",
+		"label": "mandolin"
+	},
+	{
+		"code": "tn",
+		"type": "string, plucked"
+	},
+	{
+		"code": "ty",
+		"type": "string, plucked, ethnic"
+	},
+	{
+		"code": "va",
+		"type": "voice",
+		"label": "soprano"
+	},
+	{
+		"code": "vb",
+		"type": "voice",
+		"label": "mezzo soprano"
+	},
+	{
+		"code": "vc",
+		"type": "voice",
+		"label": "alto"
+	},
+	{
+		"code": "vd",
+		"type": "voice",
+		"label": "tenor"
+	},
+	{
+		"code": "ve",
+		"type": "voice",
+		"label": "baritone"
+	},
+	{
+		"code": "vf",
+		"type": "voice",
+		"label": "bass"
+	},
+	{
+		"code": "vg",
+		"type": "voice",
+		"label": "counter tenor"
+	},
+	{
+		"code": "vh",
+		"type": "voice",
+		"label": "high voice"
+	},
+	{
+		"code": "vi",
+		"type": "voice",
+		"label": "medium voice"
+	},
+	{
+		"code": "vj",
+		"type": "voice",
+		"label": "low voice"
+	},
+	{
+		"code": "vn",
+		"type": "voice"
+	},
+	{
+		"code": "vy",
+		"type": "voice, ethnic"
+	},
+	{
+		"code": "wa",
+		"type": "woodwind",
+		"label": "flute"
+	},
+	{
+		"code": "wb",
+		"type": "woodwind",
+		"label": "oboe"
+	},
+	{
+		"code": "wc",
+		"type": "woodwind",
+		"label": "clarinet"
+	},
+	{
+		"code": "wd",
+		"type": "woodwind",
+		"label": ""
+	},
+	{
+		"code": "we",
+		"type": "woodwind",
+		"label": "bassoon"
+	},
+	{
+		"code": "wf",
+		"type": "woodwind",
+		"label": "English horn"
+	},
+	{
+		"code": "wg",
+		"type": "woodwind",
+		"label": "bass clarinet"
+	},
+	{
+		"code": "wh",
+		"type": "woodwind",
+		"label": "recorder"
+	},
+	{
+		"code": "wi",
+		"type": "woodwind",
+		"label": "saxophone"
+	},
+	{
+		"code": "wn",
+		"type": "woodwind"
+	},
+	{
+		"code": "wy",
+		"type": "woodwind, ethnic"
+	}
+]

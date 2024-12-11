@@ -1,0 +1,26 @@
+<http://id.loc.gov/vocabulary/mfont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mfont> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfont/jb> .
+<http://id.loc.gov/vocabulary/mfont/jb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfont/jb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "jumbo braille" .
+<http://id.loc.gov/vocabulary/mfont> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfont/gp> .
+<http://id.loc.gov/vocabulary/mfont/gp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfont/gp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "giant print" .
+<http://id.loc.gov/vocabulary/mfont> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfont/lp> .
+<http://id.loc.gov/vocabulary/mfont/lp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfont/lp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "large print" .
+<http://id.loc.gov/vocabulary/mfont> <http://www.w3.org/2000/01/rdf-schema#label> "Font Size"@en .
+<http://id.loc.gov/vocabulary/mfont> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mfont> <http://www.loc.gov/mads/rdf/v1#definitionNote> "A size of the type used to represent the characters and symbols in a resoure"@en .
+<http://id.loc.gov/vocabulary/mfont> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b22iddOtlocdOtgovvocabularymfont .
+_:b22iddOtlocdOtgovvocabularymfont <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b22iddOtlocdOtgovvocabularymfont <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b22iddOtlocdOtgovvocabularymfont <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2019-05-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b22iddOtlocdOtgovvocabularymfont <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mfont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mfont> <http://www.w3.org/2004/02/skos/core#definition> "A size of the type used to represent the characters and symbols in a resoure"@en .
+<http://id.loc.gov/vocabulary/mfont> <http://www.w3.org/2004/02/skos/core#changeNote> _:b37iddOtlocdOtgovvocabularymfont .
+_:b37iddOtlocdOtgovvocabularymfont <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b37iddOtlocdOtgovvocabularymfont <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mfont> .
+_:b37iddOtlocdOtgovvocabularymfont <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b37iddOtlocdOtgovvocabularymfont <http://purl.org/vocab/changeset/schema#createdDate> "2019-05-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b37iddOtlocdOtgovvocabularymfont <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

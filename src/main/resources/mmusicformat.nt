@@ -1,0 +1,55 @@
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/studyscore> .
+<http://id.loc.gov/vocabulary/mmusicformat/studyscore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/studyscore> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "study score" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/tablebk> .
+<http://id.loc.gov/vocabulary/mmusicformat/tablebk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/tablebk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "table book" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/pianoconpt> .
+<http://id.loc.gov/vocabulary/mmusicformat/pianoconpt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/pianoconpt> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "piano conductor part" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/choirbk> .
+<http://id.loc.gov/vocabulary/mmusicformat/choirbk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/choirbk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "choir book" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/part> .
+<http://id.loc.gov/vocabulary/mmusicformat/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/part> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "part" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/pianoscore> .
+<http://id.loc.gov/vocabulary/mmusicformat/pianoscore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/pianoscore> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "piano score" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/perfconpt> .
+<http://id.loc.gov/vocabulary/mmusicformat/perfconpt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/perfconpt> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "performer conductor part" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/violconpart> .
+<http://id.loc.gov/vocabulary/mmusicformat/violconpart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/violconpart> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "violin conductor part" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/vocalscore> .
+<http://id.loc.gov/vocabulary/mmusicformat/vocalscore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/vocalscore> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "vocal score" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/score> .
+<http://id.loc.gov/vocabulary/mmusicformat/score> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/score> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "score" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/conscore> .
+<http://id.loc.gov/vocabulary/mmusicformat/conscore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/conscore> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "condensed score" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusicformat/chscore> .
+<http://id.loc.gov/vocabulary/mmusicformat/chscore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusicformat/chscore> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "chorus score" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.w3.org/2000/01/rdf-schema#label> "NOTATED MUSIC FORM"@en .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Musical or physical layout of the content that is presented in the form of musical notation"@en .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 348 $a; 008MU/20"@en .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b60iddOtlocdOtgovvocabularymmusicformat .
+_:b60iddOtlocdOtgovvocabularymmusicformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b60iddOtlocdOtgovvocabularymmusicformat <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b60iddOtlocdOtgovvocabularymmusicformat <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-10-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b60iddOtlocdOtgovvocabularymmusicformat <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.w3.org/2004/02/skos/core#definition> "Musical or physical layout of the content that is presented in the form of musical notation"@en .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 348 $a; 008MU/20"@en .
+<http://id.loc.gov/vocabulary/mmusicformat> <http://www.w3.org/2004/02/skos/core#changeNote> _:b77iddOtlocdOtgovvocabularymmusicformat .
+_:b77iddOtlocdOtgovvocabularymmusicformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b77iddOtlocdOtgovvocabularymmusicformat <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mmusicformat> .
+_:b77iddOtlocdOtgovvocabularymmusicformat <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b77iddOtlocdOtgovvocabularymmusicformat <http://purl.org/vocab/changeset/schema#createdDate> "2017-10-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b77iddOtlocdOtgovvocabularymmusicformat <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

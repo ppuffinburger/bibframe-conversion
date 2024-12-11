@@ -1,0 +1,42 @@
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mbroadstd/hdtv> .
+<http://id.loc.gov/vocabulary/mbroadstd/hdtv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mbroadstd/hdtv> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "HDTV" .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mbroadstd/ntsc> .
+<http://id.loc.gov/vocabulary/mbroadstd/ntsc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mbroadstd/ntsc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "NTSC" .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mbroadstd/pal> .
+<http://id.loc.gov/vocabulary/mbroadstd/pal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mbroadstd/pal> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PAL" .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mbroadstd/secam> .
+<http://id.loc.gov/vocabulary/mbroadstd/secam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mbroadstd/secam> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SECAM" .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/2000/01/rdf-schema#label> "Broadcast Standard"@en .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#definitionNote> "System used to format video resource for television broadcast."@en .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 346 $b"@en .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b28iddOtlocdOtgovvocabularymbroadstd .
+_:b28iddOtlocdOtgovvocabularymbroadstd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b28iddOtlocdOtgovvocabularymbroadstd <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b28iddOtlocdOtgovvocabularymbroadstd <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-12-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b28iddOtlocdOtgovvocabularymbroadstd <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b41iddOtlocdOtgovvocabularymbroadstd .
+_:b41iddOtlocdOtgovvocabularymbroadstd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b41iddOtlocdOtgovvocabularymbroadstd <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "modified"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b41iddOtlocdOtgovvocabularymbroadstd <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2023-11-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b41iddOtlocdOtgovvocabularymbroadstd <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/2004/02/skos/core#definition> "System used to format video resource for television broadcast."@en .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 346 $b"@en .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/2004/02/skos/core#changeNote> _:b58iddOtlocdOtgovvocabularymbroadstd .
+_:b58iddOtlocdOtgovvocabularymbroadstd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b58iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mbroadstd> .
+_:b58iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b58iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#createdDate> "2017-12-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b58iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/vocabulary/mbroadstd> <http://www.w3.org/2004/02/skos/core#changeNote> _:b66iddOtlocdOtgovvocabularymbroadstd .
+_:b66iddOtlocdOtgovvocabularymbroadstd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b66iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mbroadstd> .
+_:b66iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b66iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#createdDate> "2023-11-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b66iddOtlocdOtgovvocabularymbroadstd <http://purl.org/vocab/changeset/schema#changeReason> "modified"^^<http://www.w3.org/2001/XMLSchema#string> .

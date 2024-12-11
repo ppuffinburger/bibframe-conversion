@@ -1,0 +1,189 @@
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcnuc> .
+<http://id.loc.gov/vocabulary/marcauthen/lcnuc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lcnuc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National Union Catalog" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/ukblcatcopy> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblcatcopy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblcatcopy> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "British Library derived copy cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gnd7> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND automatically generated record, not authenticated" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcode> .
+<http://id.loc.gov/vocabulary/marcauthen/lcode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lcode> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC Overseas Data Entry" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/finbd> .
+<http://id.loc.gov/vocabulary/marcauthen/finbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/finbd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Finnish National Discography" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gnd1> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND authenticated by curation team of a library network" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/nznb> .
+<http://id.loc.gov/vocabulary/marcauthen/nznb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/nznb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "New Zealand National Bibliography" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/toknb> .
+<http://id.loc.gov/vocabulary/marcauthen/toknb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/toknb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tokelau National Bibliography" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/ukblderived> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblderived> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblderived> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "British Library derived cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lacderived> .
+<http://id.loc.gov/vocabulary/marcauthen/lacderived> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lacderived> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library and Archives Canada derived cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/ukblproject> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblproject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblproject> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "British Library project" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/ukblsr> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblsr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/ukblsr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "British Library Standard Record" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/sanb> .
+<http://id.loc.gov/vocabulary/marcauthen/sanb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/sanb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "South African National Bibliography Project" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gnd2> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND authenticated by a local curation team" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/nsdp> .
+<http://id.loc.gov/vocabulary/marcauthen/nsdp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/nsdp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "U.S. ISSN Center" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/xlc> .
+<http://id.loc.gov/vocabulary/marcauthen/xlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/xlc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "xlc" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/scipio> .
+<http://id.loc.gov/vocabulary/marcauthen/scipio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/scipio> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SCIPIO: Art and Rare Book Sales Catalogs" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/norbibl> .
+<http://id.loc.gov/vocabulary/marcauthen/norbibl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/norbibl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National Library of Norway (Nasjonalbiblioteket)" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcderive> .
+<http://id.loc.gov/vocabulary/marcauthen/lcderive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lcderive> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC derived cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gnd5> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND authenticated by other non-librarian users" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/isdsc> .
+<http://id.loc.gov/vocabulary/marcauthen/isdsc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/isdsc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ISSN Canada" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/issnuk> .
+<http://id.loc.gov/vocabulary/marcauthen/issnuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/issnuk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ISSN UK Centre" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/nlc> .
+<http://id.loc.gov/vocabulary/marcauthen/nlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/nlc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library and Archives Canada" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/anuc> .
+<http://id.loc.gov/vocabulary/marcauthen/anuc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/anuc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Australian National Union Catalog" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gnd3> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND authenticated by trained users" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcd> .
+<http://id.loc.gov/vocabulary/marcauthen/lcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lcd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CONSER full authority application" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lchlas> .
+<http://id.loc.gov/vocabulary/marcauthen/lchlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lchlas> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC Handbook of Latin American Studies" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/ntccf> .
+<http://id.loc.gov/vocabulary/marcauthen/ntccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/ntccf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC National Translations Center Citation File" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/premarc> .
+<http://id.loc.gov/vocabulary/marcauthen/premarc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/premarc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC PreMARC Retrospective Conversion Project" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/cyac> .
+<http://id.loc.gov/vocabulary/marcauthen/cyac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/cyac> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library of Congress Children's and Young Adults' Cataloging Program" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/nbr> .
+<http://id.loc.gov/vocabulary/marcauthen/nbr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/nbr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National Bibliography Resource" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gamma> .
+<http://id.loc.gov/vocabulary/marcauthen/gamma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gamma> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Georgia Archives and Manuscripts Automated Access Project" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gnd6> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND legacy data, not authenticated" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/dhca> .
+<http://id.loc.gov/vocabulary/marcauthen/dhca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/dhca> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dance Heritage Coalition Access Project" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lccopycat> .
+<http://id.loc.gov/vocabulary/marcauthen/lccopycat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lccopycat> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC Copy Cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/xnsdp> .
+<http://id.loc.gov/vocabulary/marcauthen/xnsdp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/xnsdp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "xndsp" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcnccp> .
+<http://id.loc.gov/vocabulary/marcauthen/lcnccp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lcnccp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC National Coordinated Cataloging Program" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gndz> .
+<http://id.loc.gov/vocabulary/marcauthen/gndz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gndz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND protected record" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lc> .
+<http://id.loc.gov/vocabulary/marcauthen/lc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library of Congress" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcnitrate> .
+<http://id.loc.gov/vocabulary/marcauthen/lcnitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lcnitrate> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC Nitrite Film" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/ukscp> .
+<http://id.loc.gov/vocabulary/marcauthen/ukscp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/ukscp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "UK Legal Deposit Libraries' Shared Cataloguing Programme Record" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gnd4> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gnd4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GND authenticated by untrained users" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lccopycat-nm> .
+<http://id.loc.gov/vocabulary/marcauthen/lccopycat-nm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lccopycat-nm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC Copy Cataloging-Near Match" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/croatica> .
+<http://id.loc.gov/vocabulary/marcauthen/croatica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/croatica> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Croatian National Bibliography" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/reveal> .
+<http://id.loc.gov/vocabulary/marcauthen/reveal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/reveal> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "REVEAL Union Catalog Project" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/msc> .
+<http://id.loc.gov/vocabulary/marcauthen/msc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/msc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CONSER minimal authority application" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/xissnuk> .
+<http://id.loc.gov/vocabulary/marcauthen/xissnuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/xissnuk> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Unverified by ISSN UK Centre" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/nlmcopyc> .
+<http://id.loc.gov/vocabulary/marcauthen/nlmcopyc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/nlmcopyc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National Library of Medicine Copy Cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/gils> .
+<http://id.loc.gov/vocabulary/marcauthen/gils> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/gils> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Government Information Location Service" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/natgaz> .
+<http://id.loc.gov/vocabulary/marcauthen/natgaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/natgaz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "U.S. National Gazetteer Geographic Feature Name" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/xnlc> .
+<http://id.loc.gov/vocabulary/marcauthen/xnlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/xnlc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "xnlc" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/finb> .
+<http://id.loc.gov/vocabulary/marcauthen/finb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/finb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Finnish National Bibliography" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcllh> .
+<http://id.loc.gov/vocabulary/marcauthen/lcllh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lcllh> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LC Law Library Hispanic" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/pcc> .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Program for Cooperative Cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/dlr> .
+<http://id.loc.gov/vocabulary/marcauthen/dlr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/dlr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Digital library registry" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/dc> .
+<http://id.loc.gov/vocabulary/marcauthen/dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/dc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dublin Core" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lac> .
+<http://id.loc.gov/vocabulary/marcauthen/lac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/marcauthen/lac> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library and Archives Canada monographs" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/marcauthen/lcac> .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.w3.org/2000/01/rdf-schema#label> "MARC Authentication Action"@en .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#definitionNote> "This list was originally developed for use in the MARC21 formats for field 042 $a (Authentication code). In BIBFRAME 2.0, the code is used in Admin Metadata as the descriptionAuthentication property."@en .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b239iddOtlocdOtgovvocabularymarcauthen .
+_:b239iddOtlocdOtgovvocabularymarcauthen <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b239iddOtlocdOtgovvocabularymarcauthen <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b239iddOtlocdOtgovvocabularymarcauthen <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2018-08-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b239iddOtlocdOtgovvocabularymarcauthen <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.w3.org/2004/02/skos/core#definition> "This list was originally developed for use in the MARC21 formats for field 042 $a (Authentication code). In BIBFRAME 2.0, the code is used in Admin Metadata as the descriptionAuthentication property."@en .
+<http://id.loc.gov/vocabulary/marcauthen> <http://www.w3.org/2004/02/skos/core#changeNote> _:b254iddOtlocdOtgovvocabularymarcauthen .
+_:b254iddOtlocdOtgovvocabularymarcauthen <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b254iddOtlocdOtgovvocabularymarcauthen <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/marcauthen> .
+_:b254iddOtlocdOtgovvocabularymarcauthen <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b254iddOtlocdOtgovvocabularymarcauthen <http://purl.org/vocab/changeset/schema#createdDate> "2018-08-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b254iddOtlocdOtgovvocabularymarcauthen <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

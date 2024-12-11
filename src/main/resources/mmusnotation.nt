@@ -1,0 +1,57 @@
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/tabla> .
+<http://id.loc.gov/vocabulary/mmusnotation/tabla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/tabla> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "tablature" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/letter> .
+<http://id.loc.gov/vocabulary/mmusnotation/letter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/letter> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "letter notation" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/graph> .
+<http://id.loc.gov/vocabulary/mmusnotation/graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/graph> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "graphic notation" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/syll> .
+<http://id.loc.gov/vocabulary/mmusnotation/syll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/syll> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "syllabic notation" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/staff> .
+<http://id.loc.gov/vocabulary/mmusnotation/staff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/staff> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "staff notation" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/solmi> .
+<http://id.loc.gov/vocabulary/mmusnotation/solmi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/solmi> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "solmization" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/neuma> .
+<http://id.loc.gov/vocabulary/mmusnotation/neuma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/neuma> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "neumatic notation" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/mensu> .
+<http://id.loc.gov/vocabulary/mmusnotation/mensu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/mensu> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "mensural notation" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mmusnotation/numb> .
+<http://id.loc.gov/vocabulary/mmusnotation/numb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mmusnotation/numb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "number notation" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/2000/01/rdf-schema#label> "Music Notation"@en .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Set of characters or symbols used to express musical content"@en .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 348 $c or 546 $b"@en .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b48iddOtlocdOtgovvocabularymmusnotation .
+_:b48iddOtlocdOtgovvocabularymmusnotation <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b48iddOtlocdOtgovvocabularymmusnotation <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b48iddOtlocdOtgovvocabularymmusnotation <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b48iddOtlocdOtgovvocabularymmusnotation <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b61iddOtlocdOtgovvocabularymmusnotation .
+_:b61iddOtlocdOtgovvocabularymmusnotation <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b61iddOtlocdOtgovvocabularymmusnotation <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "modified"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b61iddOtlocdOtgovvocabularymmusnotation <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2022-08-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b61iddOtlocdOtgovvocabularymmusnotation <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/2004/02/skos/core#definition> "Set of characters or symbols used to express musical content"@en .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 348 $c or 546 $b"@en .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/2004/02/skos/core#changeNote> _:b78iddOtlocdOtgovvocabularymmusnotation .
+_:b78iddOtlocdOtgovvocabularymmusnotation <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b78iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mmusnotation> .
+_:b78iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b78iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#createdDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b78iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/vocabulary/mmusnotation> <http://www.w3.org/2004/02/skos/core#changeNote> _:b86iddOtlocdOtgovvocabularymmusnotation .
+_:b86iddOtlocdOtgovvocabularymmusnotation <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b86iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mmusnotation> .
+_:b86iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b86iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#createdDate> "2022-08-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b86iddOtlocdOtgovvocabularymmusnotation <http://purl.org/vocab/changeset/schema#changeReason> "modified"^^<http://www.w3.org/2001/XMLSchema#string> .

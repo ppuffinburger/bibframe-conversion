@@ -1,0 +1,185 @@
+<http://id.loc.gov/vocabulary/carriers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/se> .
+<http://id.loc.gov/vocabulary/carriers/se> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/se> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audio cylinder" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/st> .
+<http://id.loc.gov/vocabulary/carriers/st> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/st> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audiotape reel" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/no> .
+<http://id.loc.gov/vocabulary/carriers/no> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/no> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "card" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/gc> .
+<http://id.loc.gov/vocabulary/carriers/gc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/gc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "filmstrip cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/pz> .
+<http://id.loc.gov/vocabulary/carriers/pz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/pz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other microscopic carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/es> .
+<http://id.loc.gov/vocabulary/carriers/es> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/es> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "stereograph disc" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/nn> .
+<http://id.loc.gov/vocabulary/carriers/nn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/nn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "flipchart" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/nb> .
+<http://id.loc.gov/vocabulary/carriers/nb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/nb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "sheet" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/ch> .
+<http://id.loc.gov/vocabulary/carriers/ch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/ch> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computer tape reel" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/cr> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "online resource" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/ha> .
+<http://id.loc.gov/vocabulary/carriers/ha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/ha> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "aperture card" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/sw> .
+<http://id.loc.gov/vocabulary/carriers/sw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/sw> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audio wire reel" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/vd> .
+<http://id.loc.gov/vocabulary/carriers/vd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/vd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "videodisc" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/gs> .
+<http://id.loc.gov/vocabulary/carriers/gs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/gs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "slide" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/cz> .
+<http://id.loc.gov/vocabulary/carriers/cz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/cz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other computer carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/sq> .
+<http://id.loc.gov/vocabulary/carriers/sq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/sq> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audio roll" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/cb> .
+<http://id.loc.gov/vocabulary/carriers/cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/cb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computer chip cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/vz> .
+<http://id.loc.gov/vocabulary/carriers/vz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/vz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other video carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hj> .
+<http://id.loc.gov/vocabulary/carriers/hj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hj> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microfilm roll" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/mo> .
+<http://id.loc.gov/vocabulary/carriers/mo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/mo> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "film roll" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/pp> .
+<http://id.loc.gov/vocabulary/carriers/pp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/pp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microscope slide" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/eh> .
+<http://id.loc.gov/vocabulary/carriers/eh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/eh> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "stereograph card" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/gf> .
+<http://id.loc.gov/vocabulary/carriers/gf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/gf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "filmstrip" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/sb> .
+<http://id.loc.gov/vocabulary/carriers/sb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/sb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audio belt" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/gd> .
+<http://id.loc.gov/vocabulary/carriers/gd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/gd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "filmslip" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/cf> .
+<http://id.loc.gov/vocabulary/carriers/cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/cf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computer tape cassette" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/mf> .
+<http://id.loc.gov/vocabulary/carriers/mf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/mf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "film cassette" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/gt> .
+<http://id.loc.gov/vocabulary/carriers/gt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/gt> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "overhead transparency" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hg> .
+<http://id.loc.gov/vocabulary/carriers/hg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microopaque" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/sd> .
+<http://id.loc.gov/vocabulary/carriers/sd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/sd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audio disc" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/ce> .
+<http://id.loc.gov/vocabulary/carriers/ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/ce> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computer disc cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hf> .
+<http://id.loc.gov/vocabulary/carriers/hf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microfiche cassette" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hc> .
+<http://id.loc.gov/vocabulary/carriers/hc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microfilm cassette" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/na> .
+<http://id.loc.gov/vocabulary/carriers/na> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/na> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "roll" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hd> .
+<http://id.loc.gov/vocabulary/carriers/hd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microfilm reel" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/ck> .
+<http://id.loc.gov/vocabulary/carriers/ck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/ck> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computer card" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/vc> .
+<http://id.loc.gov/vocabulary/carriers/vc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/vc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "video cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/he> .
+<http://id.loc.gov/vocabulary/carriers/he> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/he> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microfiche" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hb> .
+<http://id.loc.gov/vocabulary/carriers/hb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microfilm cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/nr> .
+<http://id.loc.gov/vocabulary/carriers/nr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/nr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "object" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hh> .
+<http://id.loc.gov/vocabulary/carriers/hh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hh> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "microfilm slip" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/vf> .
+<http://id.loc.gov/vocabulary/carriers/vf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/vf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "videocassette" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/ca> .
+<http://id.loc.gov/vocabulary/carriers/ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/ca> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computer tape cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/hz> .
+<http://id.loc.gov/vocabulary/carriers/hz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/hz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other microform carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/vr> .
+<http://id.loc.gov/vocabulary/carriers/vr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/vr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "videotape reel" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/nc> .
+<http://id.loc.gov/vocabulary/carriers/nc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/nc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "volume" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/si> .
+<http://id.loc.gov/vocabulary/carriers/si> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/si> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "sound track reel" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/mr> .
+<http://id.loc.gov/vocabulary/carriers/mr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/mr> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "film reel" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/mz> .
+<http://id.loc.gov/vocabulary/carriers/mz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/mz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other projected carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/sz> .
+<http://id.loc.gov/vocabulary/carriers/sz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/sz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other audio carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/mc> .
+<http://id.loc.gov/vocabulary/carriers/mc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/mc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "film cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/nz> .
+<http://id.loc.gov/vocabulary/carriers/nz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/nz> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other unmediated carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/ez> .
+<http://id.loc.gov/vocabulary/carriers/ez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/ez> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "other stereographic carrier" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/ss> .
+<http://id.loc.gov/vocabulary/carriers/ss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/ss> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audiocassette" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/cd> .
+<http://id.loc.gov/vocabulary/carriers/cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/cd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computer disc" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/carriers/sg> .
+<http://id.loc.gov/vocabulary/carriers/sg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/carriers/sg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audio cartridge" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.w3.org/2000/01/rdf-schema#label> "Carriers Scheme"@en .
+<http://id.loc.gov/vocabulary/carriers> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Values representing the format of the storage medium and housing of a carrier in combination with the type of intermediation device required to views, play, run, etc., the content of a resource"@en .
+<http://id.loc.gov/vocabulary/carriers> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b234iddOtlocdOtgovvocabularycarriers .
+_:b234iddOtlocdOtgovvocabularycarriers <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b234iddOtlocdOtgovvocabularycarriers <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b234iddOtlocdOtgovvocabularycarriers <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2014-01-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b234iddOtlocdOtgovvocabularycarriers <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/carriers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/carriers> <http://www.w3.org/2004/02/skos/core#definition> "Values representing the format of the storage medium and housing of a carrier in combination with the type of intermediation device required to views, play, run, etc., the content of a resource"@en .
+<http://id.loc.gov/vocabulary/carriers> <http://www.w3.org/2004/02/skos/core#changeNote> _:b249iddOtlocdOtgovvocabularycarriers .
+_:b249iddOtlocdOtgovvocabularycarriers <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b249iddOtlocdOtgovvocabularycarriers <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/carriers> .
+_:b249iddOtlocdOtgovvocabularycarriers <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b249iddOtlocdOtgovvocabularycarriers <http://purl.org/vocab/changeset/schema#createdDate> "2014-01-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b249iddOtlocdOtgovvocabularycarriers <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -1,0 +1,32 @@
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mreductionratio/high> .
+<http://id.loc.gov/vocabulary/mreductionratio/high> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mreductionratio/high> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "high reduction" .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mreductionratio/ultrahigh> .
+<http://id.loc.gov/vocabulary/mreductionratio/ultrahigh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mreductionratio/ultrahigh> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ultra high reduction" .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mreductionratio/normal> .
+<http://id.loc.gov/vocabulary/mreductionratio/normal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mreductionratio/normal> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "normal reduction" .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mreductionratio/low> .
+<http://id.loc.gov/vocabulary/mreductionratio/low> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mreductionratio/low> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "low reduction" .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mreductionratio/veryhigh> .
+<http://id.loc.gov/vocabulary/mreductionratio/veryhigh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mreductionratio/veryhigh> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "very high reduction" .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.w3.org/2000/01/rdf-schema#label> "Reduction Ratio"@en .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.loc.gov/mads/rdf/v1#definitionNote> "A general designation of the size of a micro-image in relation to the original from which it was produced"@en .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b30iddOtlocdOtgovvocabularymreductionratio .
+_:b30iddOtlocdOtgovvocabularymreductionratio <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b30iddOtlocdOtgovvocabularymreductionratio <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b30iddOtlocdOtgovvocabularymreductionratio <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2019-04-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b30iddOtlocdOtgovvocabularymreductionratio <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.w3.org/2004/02/skos/core#definition> "A general designation of the size of a micro-image in relation to the original from which it was produced"@en .
+<http://id.loc.gov/vocabulary/mreductionratio> <http://www.w3.org/2004/02/skos/core#changeNote> _:b45iddOtlocdOtgovvocabularymreductionratio .
+_:b45iddOtlocdOtgovvocabularymreductionratio <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b45iddOtlocdOtgovvocabularymreductionratio <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mreductionratio> .
+_:b45iddOtlocdOtgovvocabularymreductionratio <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b45iddOtlocdOtgovvocabularymreductionratio <http://purl.org/vocab/changeset/schema#createdDate> "2019-04-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b45iddOtlocdOtgovvocabularymreductionratio <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

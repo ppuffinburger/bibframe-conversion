@@ -1,0 +1,37 @@
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfiletype/audio> .
+<http://id.loc.gov/vocabulary/mfiletype/audio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfiletype/audio> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "audio file" .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfiletype/program> .
+<http://id.loc.gov/vocabulary/mfiletype/program> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfiletype/program> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "program file" .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfiletype/image> .
+<http://id.loc.gov/vocabulary/mfiletype/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfiletype/image> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "image file" .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfiletype/video> .
+<http://id.loc.gov/vocabulary/mfiletype/video> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfiletype/video> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "video file" .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfiletype/data> .
+<http://id.loc.gov/vocabulary/mfiletype/data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfiletype/data> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "data file" .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mfiletype/text> .
+<http://id.loc.gov/vocabulary/mfiletype/text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mfiletype/text> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "text file" .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.w3.org/2000/01/rdf-schema#label> "File Type"@en .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#definitionNote> "General type of data content encoded in a computer file"@en .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 347 $a"@en .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b36iddOtlocdOtgovvocabularymfiletype .
+_:b36iddOtlocdOtgovvocabularymfiletype <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b36iddOtlocdOtgovvocabularymfiletype <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b36iddOtlocdOtgovvocabularymfiletype <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b36iddOtlocdOtgovvocabularymfiletype <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.w3.org/2004/02/skos/core#definition> "General type of data content encoded in a computer file"@en .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 347 $a"@en .
+<http://id.loc.gov/vocabulary/mfiletype> <http://www.w3.org/2004/02/skos/core#changeNote> _:b53iddOtlocdOtgovvocabularymfiletype .
+_:b53iddOtlocdOtgovvocabularymfiletype <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b53iddOtlocdOtgovvocabularymfiletype <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mfiletype> .
+_:b53iddOtlocdOtgovvocabularymfiletype <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b53iddOtlocdOtgovvocabularymfiletype <http://purl.org/vocab/changeset/schema#createdDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b53iddOtlocdOtgovvocabularymfiletype <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -1,0 +1,113 @@
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/number> .
+<http://id.loc.gov/vocabulary/mnotetype/number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/number> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Numbering" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/biblio> .
+<http://id.loc.gov/vocabulary/mnotetype/biblio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/biblio> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bibliography" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/with> .
+<http://id.loc.gov/vocabulary/mnotetype/with> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/with> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "With" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/source> .
+<http://id.loc.gov/vocabulary/mnotetype/source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/source> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Source consulted" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/award> .
+<http://id.loc.gov/vocabulary/mnotetype/award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/award> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Award" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/issuance> .
+<http://id.loc.gov/vocabulary/mnotetype/issuance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/issuance> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Issuance information" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/coverage> .
+<http://id.loc.gov/vocabulary/mnotetype/coverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/coverage> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coverage" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/exhibit> .
+<http://id.loc.gov/vocabulary/mnotetype/exhibit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/exhibit> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Exhibition" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/finding> .
+<http://id.loc.gov/vocabulary/mnotetype/finding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/finding> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Finding aid" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/loc> .
+<http://id.loc.gov/vocabulary/mnotetype/loc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/loc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Location" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/metaentry> .
+<http://id.loc.gov/vocabulary/mnotetype/metaentry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/metaentry> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metadata entry convention" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/issuing> .
+<http://id.loc.gov/vocabulary/mnotetype/issuing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/issuing> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Issuing body" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/physical> .
+<http://id.loc.gov/vocabulary/mnotetype/physical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/physical> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physical details" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/related> .
+<http://id.loc.gov/vocabulary/mnotetype/related> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/related> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Related material" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/orig> .
+<http://id.loc.gov/vocabulary/mnotetype/orig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/orig> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Original version" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/descsource> .
+<http://id.loc.gov/vocabulary/mnotetype/descsource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/descsource> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Description source" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/index> .
+<http://id.loc.gov/vocabulary/mnotetype/index> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/index> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Index" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/biogdata> .
+<http://id.loc.gov/vocabulary/mnotetype/biogdata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/biogdata> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biographical data" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/adminhist> .
+<http://id.loc.gov/vocabulary/mnotetype/adminhist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/adminhist> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Administrative history" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/datanf> .
+<http://id.loc.gov/vocabulary/mnotetype/datanf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/datanf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Data not found" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/repro> .
+<http://id.loc.gov/vocabulary/mnotetype/repro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/repro> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reproduction version" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/report> .
+<http://id.loc.gov/vocabulary/mnotetype/report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/report> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Report type" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/addphys> .
+<http://id.loc.gov/vocabulary/mnotetype/addphys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/addphys> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Additional physical form" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+<http://id.loc.gov/vocabulary/mnotetype/internal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/internal> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Internal" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/lang> .
+<http://id.loc.gov/vocabulary/mnotetype/lang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/lang> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Language" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/datasource> .
+<http://id.loc.gov/vocabulary/mnotetype/datasource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/datasource> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Data source" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/fundinfo> .
+<http://id.loc.gov/vocabulary/mnotetype/fundinfo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/fundinfo> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Funding information" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/binding> .
+<http://id.loc.gov/vocabulary/mnotetype/binding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/binding> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Binding" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/computer> .
+<http://id.loc.gov/vocabulary/mnotetype/computer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/computer> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Type of computer data" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/action> .
+<http://id.loc.gov/vocabulary/mnotetype/action> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/action> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Action" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/freq> .
+<http://id.loc.gov/vocabulary/mnotetype/freq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/freq> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Frequency" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mnotetype/accmat> .
+<http://id.loc.gov/vocabulary/mnotetype/accmat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mnotetype/accmat> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Accompanying material" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.w3.org/2000/01/rdf-schema#label> "Note Type"@en .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Codes and terms for note type fields"@en .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b138iddOtlocdOtgovvocabularymnotetype .
+_:b138iddOtlocdOtgovvocabularymnotetype <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b138iddOtlocdOtgovvocabularymnotetype <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b138iddOtlocdOtgovvocabularymnotetype <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2021-05-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b138iddOtlocdOtgovvocabularymnotetype <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.w3.org/2004/02/skos/core#definition> "Codes and terms for note type fields"@en .
+<http://id.loc.gov/vocabulary/mnotetype> <http://www.w3.org/2004/02/skos/core#changeNote> _:b153iddOtlocdOtgovvocabularymnotetype .
+_:b153iddOtlocdOtgovvocabularymnotetype <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b153iddOtlocdOtgovvocabularymnotetype <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mnotetype> .
+_:b153iddOtlocdOtgovvocabularymnotetype <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b153iddOtlocdOtgovvocabularymnotetype <http://purl.org/vocab/changeset/schema#createdDate> "2021-05-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b153iddOtlocdOtgovvocabularymnotetype <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

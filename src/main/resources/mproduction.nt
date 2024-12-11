@@ -1,0 +1,77 @@
+<http://id.loc.gov/vocabulary/mproduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/blueline> .
+<http://id.loc.gov/vocabulary/mproduction/blueline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/blueline> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "blueline process" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/collo> .
+<http://id.loc.gov/vocabulary/mproduction/collo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/collo> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "collotype" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/photograv> .
+<http://id.loc.gov/vocabulary/mproduction/photograv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/photograv> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "photogravure process" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/print> .
+<http://id.loc.gov/vocabulary/mproduction/print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/print> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "printing" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/etch> .
+<http://id.loc.gov/vocabulary/mproduction/etch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/etch> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "etching" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/engrav> .
+<http://id.loc.gov/vocabulary/mproduction/engrav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/engrav> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "engraving" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/swell> .
+<http://id.loc.gov/vocabulary/mproduction/swell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/swell> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "swell paper" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/litho> .
+<http://id.loc.gov/vocabulary/mproduction/litho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/litho> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "lithography" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/thermo> .
+<http://id.loc.gov/vocabulary/mproduction/thermo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/thermo> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "thermoform" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/burn> .
+<http://id.loc.gov/vocabulary/mproduction/burn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/burn> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "burning" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/photocopy> .
+<http://id.loc.gov/vocabulary/mproduction/photocopy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/photocopy> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "photocopying" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/inscrib> .
+<http://id.loc.gov/vocabulary/mproduction/inscrib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/inscrib> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "inscribing" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/duallayer> .
+<http://id.loc.gov/vocabulary/mproduction/duallayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/duallayer> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "dual layer" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/white> .
+<http://id.loc.gov/vocabulary/mproduction/white> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/white> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "white print process" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/daguerre> .
+<http://id.loc.gov/vocabulary/mproduction/daguerre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/daguerre> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "daguerreotype process" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/emboss> .
+<http://id.loc.gov/vocabulary/mproduction/emboss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/emboss> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "embossing" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/blueprint> .
+<http://id.loc.gov/vocabulary/mproduction/blueprint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/blueprint> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "blueprint process" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/stamp> .
+<http://id.loc.gov/vocabulary/mproduction/stamp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/stamp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "stamping" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/solid> .
+<http://id.loc.gov/vocabulary/mproduction/solid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/solid> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "solid dot" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mproduction/photoeng> .
+<http://id.loc.gov/vocabulary/mproduction/photoeng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mproduction/photoeng> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "photoengraving" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.w3.org/2000/01/rdf-schema#label> "Production Method"@en .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#definitionNote> "A process used to produce a resource"@en .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b90iddOtlocdOtgovvocabularymproduction .
+_:b90iddOtlocdOtgovvocabularymproduction <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b90iddOtlocdOtgovvocabularymproduction <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b90iddOtlocdOtgovvocabularymproduction <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b90iddOtlocdOtgovvocabularymproduction <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.w3.org/2004/02/skos/core#definition> "A process used to produce a resource"@en .
+<http://id.loc.gov/vocabulary/mproduction> <http://www.w3.org/2004/02/skos/core#changeNote> _:b105iddOtlocdOtgovvocabularymproduction .
+_:b105iddOtlocdOtgovvocabularymproduction <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b105iddOtlocdOtgovvocabularymproduction <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mproduction> .
+_:b105iddOtlocdOtgovvocabularymproduction <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b105iddOtlocdOtgovvocabularymproduction <http://purl.org/vocab/changeset/schema#createdDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b105iddOtlocdOtgovvocabularymproduction <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

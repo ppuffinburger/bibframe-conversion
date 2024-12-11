@@ -1,0 +1,26 @@
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpolarity/neg> .
+<http://id.loc.gov/vocabulary/mpolarity/neg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpolarity/neg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "negative" .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpolarity/mix> .
+<http://id.loc.gov/vocabulary/mpolarity/mix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpolarity/mix> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "mixed" .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpolarity/pos> .
+<http://id.loc.gov/vocabulary/mpolarity/pos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpolarity/pos> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "positive" .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.w3.org/2000/01/rdf-schema#label> "Polarity"@en .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Relationship of the colors and tones in an image to the colors and tones of the object reproduced."@en .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b22iddOtlocdOtgovvocabularympolarity .
+_:b22iddOtlocdOtgovvocabularympolarity <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b22iddOtlocdOtgovvocabularympolarity <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b22iddOtlocdOtgovvocabularympolarity <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-01-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b22iddOtlocdOtgovvocabularympolarity <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.w3.org/2004/02/skos/core#definition> "Relationship of the colors and tones in an image to the colors and tones of the object reproduced."@en .
+<http://id.loc.gov/vocabulary/mpolarity> <http://www.w3.org/2004/02/skos/core#changeNote> _:b37iddOtlocdOtgovvocabularympolarity .
+_:b37iddOtlocdOtgovvocabularympolarity <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b37iddOtlocdOtgovvocabularympolarity <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mpolarity> .
+_:b37iddOtlocdOtgovvocabularympolarity <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b37iddOtlocdOtgovvocabularympolarity <http://purl.org/vocab/changeset/schema#createdDate> "2017-01-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b37iddOtlocdOtgovvocabularympolarity <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

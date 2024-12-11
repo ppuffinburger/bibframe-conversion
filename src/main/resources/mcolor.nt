@@ -1,0 +1,35 @@
+<http://id.loc.gov/vocabulary/mcolor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mcolor/mix> .
+<http://id.loc.gov/vocabulary/mcolor/mix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mcolor/mix> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "mixed color" .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mcolor/blw> .
+<http://id.loc.gov/vocabulary/mcolor/blw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mcolor/blw> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "black and white" .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mcolor/mul> .
+<http://id.loc.gov/vocabulary/mcolor/mul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mcolor/mul> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "color" .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mcolor/one> .
+<http://id.loc.gov/vocabulary/mcolor/one> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mcolor/one> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "one color" .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mcolor/gry> .
+<http://id.loc.gov/vocabulary/mcolor/gry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mcolor/gry> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "gray scale" .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mcolor/hnd> .
+<http://id.loc.gov/vocabulary/mcolor/hnd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mcolor/hnd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "hand colored" .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.w3.org/2000/01/rdf-schema#label> "Color Content"@en .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Presence of color, tone, etc., in the content of a resource."@en .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b34iddOtlocdOtgovvocabularymcolor .
+_:b34iddOtlocdOtgovvocabularymcolor <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b34iddOtlocdOtgovvocabularymcolor <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b34iddOtlocdOtgovvocabularymcolor <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-01-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b34iddOtlocdOtgovvocabularymcolor <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.w3.org/2004/02/skos/core#definition> "Presence of color, tone, etc., in the content of a resource."@en .
+<http://id.loc.gov/vocabulary/mcolor> <http://www.w3.org/2004/02/skos/core#changeNote> _:b49iddOtlocdOtgovvocabularymcolor .
+_:b49iddOtlocdOtgovvocabularymcolor <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b49iddOtlocdOtgovvocabularymcolor <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mcolor> .
+_:b49iddOtlocdOtgovvocabularymcolor <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b49iddOtlocdOtgovvocabularymcolor <http://purl.org/vocab/changeset/schema#createdDate> "2017-01-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b49iddOtlocdOtgovvocabularymcolor <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

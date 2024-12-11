@@ -1,0 +1,64 @@
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region6> .
+<http://id.loc.gov/vocabulary/mregencoding/region6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 6" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/regionCgame> .
+<http://id.loc.gov/vocabulary/mregencoding/regionCgame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/regionCgame> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region C (video game)" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/regionA> .
+<http://id.loc.gov/vocabulary/mregencoding/regionA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/regionA> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region A" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region1> .
+<http://id.loc.gov/vocabulary/mregencoding/region1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 1" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region2> .
+<http://id.loc.gov/vocabulary/mregencoding/region2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 2" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/all> .
+<http://id.loc.gov/vocabulary/mregencoding/all> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/all> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "all regions" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region8> .
+<http://id.loc.gov/vocabulary/mregencoding/region8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 8" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/regionB> .
+<http://id.loc.gov/vocabulary/mregencoding/regionB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/regionB> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region B" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region7> .
+<http://id.loc.gov/vocabulary/mregencoding/region7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 7" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region3> .
+<http://id.loc.gov/vocabulary/mregencoding/region3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 3" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/regionCblu> .
+<http://id.loc.gov/vocabulary/mregencoding/regionCblu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/regionCblu> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region C (Blu-ray)" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/regionU> .
+<http://id.loc.gov/vocabulary/mregencoding/regionU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/regionU> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region U/C" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region4> .
+<http://id.loc.gov/vocabulary/mregencoding/region4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 4" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/regionJ> .
+<http://id.loc.gov/vocabulary/mregencoding/regionJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/regionJ> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region J" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mregencoding/region5> .
+<http://id.loc.gov/vocabulary/mregencoding/region5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mregencoding/region5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "region 5" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.w3.org/2000/01/rdf-schema#label> "Regional Encoding"@en .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Designation for one or more regions of the world for which videodisc or video game carrier has been encoded, restricting playback to device configured to decode it."@en .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 346 $b ; 347 $b, $e"@en .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b72iddOtlocdOtgovvocabularymregencoding .
+_:b72iddOtlocdOtgovvocabularymregencoding <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b72iddOtlocdOtgovvocabularymregencoding <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b72iddOtlocdOtgovvocabularymregencoding <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-12-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b72iddOtlocdOtgovvocabularymregencoding <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.w3.org/2004/02/skos/core#definition> "Designation for one or more regions of the world for which videodisc or video game carrier has been encoded, restricting playback to device configured to decode it."@en .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 346 $b ; 347 $b, $e"@en .
+<http://id.loc.gov/vocabulary/mregencoding> <http://www.w3.org/2004/02/skos/core#changeNote> _:b89iddOtlocdOtgovvocabularymregencoding .
+_:b89iddOtlocdOtgovvocabularymregencoding <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b89iddOtlocdOtgovvocabularymregencoding <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mregencoding> .
+_:b89iddOtlocdOtgovvocabularymregencoding <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b89iddOtlocdOtgovvocabularymregencoding <http://purl.org/vocab/changeset/schema#createdDate> "2017-12-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b89iddOtlocdOtgovvocabularymregencoding <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

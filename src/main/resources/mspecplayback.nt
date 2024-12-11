@@ -1,0 +1,99 @@
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dts51> .
+<http://id.loc.gov/vocabulary/mspecplayback/dts51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dts51> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DTS 5.1" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/pcm51> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcm51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcm51> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PCM 5.1" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolbydig> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby Digital" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dtshd> .
+<http://id.loc.gov/vocabulary/mspecplayback/dtshd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dtshd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DTS-HD Master Audio" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolbydig1> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby Digital 1.0" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolby> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolby> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dbx> .
+<http://id.loc.gov/vocabulary/mspecplayback/dbx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dbx> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "dbx encoded" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/ccir> .
+<http://id.loc.gov/vocabulary/mspecplayback/ccir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/ccir> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CCIR encoded" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolbyb> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbyb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbyb> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby-B encoded" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolbydig51> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig51> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby Digital 5.1" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/lpcm2> .
+<http://id.loc.gov/vocabulary/mspecplayback/lpcm2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/lpcm2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LPCM 2.0" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolbyc> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbyc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbyc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby-C encoded" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/nab> .
+<http://id.loc.gov/vocabulary/mspecplayback/nab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/nab> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "NAB standard" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/pcm51uc> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcm51uc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcm51uc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PCM 5.1 uncompressed" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dts> .
+<http://id.loc.gov/vocabulary/mspecplayback/dts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dts> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DTS" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/cx> .
+<http://id.loc.gov/vocabulary/mspecplayback/cx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/cx> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CX encoded" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolbydig2> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbydig2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby Digital 2.0" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/pcmunc> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcmunc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcmunc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PCM uncompressed" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dolbya> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dolbya> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dolby-A encoded" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dts50> .
+<http://id.loc.gov/vocabulary/mspecplayback/dts50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dts50> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DTS 5.0" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dtshd51> .
+<http://id.loc.gov/vocabulary/mspecplayback/dtshd51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dtshd51> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DTS-HD Master Audio 5.1" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/pcm> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/pcm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PCM" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/lpcm> .
+<http://id.loc.gov/vocabulary/mspecplayback/lpcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/lpcm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "LPCM" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mspecplayback/dtshd71> .
+<http://id.loc.gov/vocabulary/mspecplayback/dtshd71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mspecplayback/dtshd71> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DTS-HD Master Audio 7.1" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.w3.org/2000/01/rdf-schema#label> "Special Playback Characteristics" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Equalization system, noise reduction system, etc., used in the making of an audio recording" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b105iddOtlocdOtgovvocabularymspecplayback .
+_:b105iddOtlocdOtgovvocabularymspecplayback <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b105iddOtlocdOtgovvocabularymspecplayback <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b105iddOtlocdOtgovvocabularymspecplayback <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b105iddOtlocdOtgovvocabularymspecplayback <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <dlc> .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b118iddOtlocdOtgovvocabularymspecplayback .
+_:b118iddOtlocdOtgovvocabularymspecplayback <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b118iddOtlocdOtgovvocabularymspecplayback <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "modified"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b118iddOtlocdOtgovvocabularymspecplayback <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2019-06-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b118iddOtlocdOtgovvocabularymspecplayback <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <dlc> .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.w3.org/2004/02/skos/core#definition> "Equalization system, noise reduction system, etc., used in the making of an audio recording" .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.w3.org/2004/02/skos/core#changeNote> _:b133iddOtlocdOtgovvocabularymspecplayback .
+_:b133iddOtlocdOtgovvocabularymspecplayback <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b133iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mspecplayback> .
+_:b133iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#creatorName> <dlc> .
+_:b133iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#createdDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b133iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/vocabulary/mspecplayback> <http://www.w3.org/2004/02/skos/core#changeNote> _:b141iddOtlocdOtgovvocabularymspecplayback .
+_:b141iddOtlocdOtgovvocabularymspecplayback <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b141iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mspecplayback> .
+_:b141iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#creatorName> <dlc> .
+_:b141iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#createdDate> "2019-06-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b141iddOtlocdOtgovvocabularymspecplayback <http://purl.org/vocab/changeset/schema#changeReason> "modified"^^<http://www.w3.org/2001/XMLSchema#string> .

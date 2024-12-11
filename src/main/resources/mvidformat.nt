@@ -1,0 +1,62 @@
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/typec> .
+<http://id.loc.gov/vocabulary/mvidformat/typec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/typec> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Type C" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/umatic> .
+<http://id.loc.gov/vocabulary/mvidformat/umatic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/umatic> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "U-matic" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/svhs> .
+<http://id.loc.gov/vocabulary/mvidformat/svhs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/svhs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Super-VHS" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/laser> .
+<http://id.loc.gov/vocabulary/mvidformat/laser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/laser> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "laser optical" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/betamax> .
+<http://id.loc.gov/vocabulary/mvidformat/betamax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/betamax> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Betamax" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/betasp> .
+<http://id.loc.gov/vocabulary/mvidformat/betasp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/betasp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Betacam SP" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/d2> .
+<http://id.loc.gov/vocabulary/mvidformat/d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/d2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "D-2" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/vhs> .
+<http://id.loc.gov/vocabulary/mvidformat/vhs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/vhs> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "VHS" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/betacam> .
+<http://id.loc.gov/vocabulary/mvidformat/betacam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/betacam> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Betacam" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/8mm> .
+<http://id.loc.gov/vocabulary/mvidformat/8mm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/8mm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "8mm" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/hi8mm> .
+<http://id.loc.gov/vocabulary/mvidformat/hi8mm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/hi8mm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hi-8mm" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/mii> .
+<http://id.loc.gov/vocabulary/mvidformat/mii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/mii> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "M-II" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/eiaj> .
+<http://id.loc.gov/vocabulary/mvidformat/eiaj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/eiaj> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "EIAJ" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/ced> .
+<http://id.loc.gov/vocabulary/mvidformat/ced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/ced> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CED" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mvidformat/quad> .
+<http://id.loc.gov/vocabulary/mvidformat/quad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mvidformat/quad> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quadruplex" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.w3.org/2000/01/rdf-schema#label> "Video Format"@en .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Used to encode the video content of a resource"@en .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b70iddOtlocdOtgovvocabularymvidformat .
+_:b70iddOtlocdOtgovvocabularymvidformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b70iddOtlocdOtgovvocabularymvidformat <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b70iddOtlocdOtgovvocabularymvidformat <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-11-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b70iddOtlocdOtgovvocabularymvidformat <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.w3.org/2004/02/skos/core#definition> "Used to encode the video content of a resource"@en .
+<http://id.loc.gov/vocabulary/mvidformat> <http://www.w3.org/2004/02/skos/core#changeNote> _:b85iddOtlocdOtgovvocabularymvidformat .
+_:b85iddOtlocdOtgovvocabularymvidformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b85iddOtlocdOtgovvocabularymvidformat <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mvidformat> .
+_:b85iddOtlocdOtgovvocabularymvidformat <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b85iddOtlocdOtgovvocabularymvidformat <http://purl.org/vocab/changeset/schema#createdDate> "2017-11-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b85iddOtlocdOtgovvocabularymvidformat <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

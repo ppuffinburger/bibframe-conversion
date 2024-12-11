@@ -1,0 +1,77 @@
+package com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup
+
+import org.eclipse.rdf4j.model.Value
+
+internal object FormOfCompositionLookup {
+    private val MAP: Map<String, String> = mapOf(
+        "http://id.loc.gov/authorities/genreForms/gf2014026635" to "an",
+        "http://id.loc.gov/authorities/genreForms/gf2014026648" to "bd",
+        "http://id.loc.gov/authorities/genreForms/gf2014026664" to "bg",
+        "http://id.loc.gov/authorities/genreForms/gf2014026665" to "bl",
+        "http://id.loc.gov/authorities/genreForms/gf2014026650" to "bt",
+        "http://id.loc.gov/authorities/genreForms/gf2014026701" to "ca",
+        "http://id.loc.gov/authorities/genreForms/gf2014026707" to "cb",
+        //"http://id.loc.gov/authorities/genreForms/gf2014026707" to "cc", TODO : The rules doubled this, but I can't find a Christian Chant gf.  The LC conversion also ignores 'cc'.
+        "http://id.loc.gov/authorities/genreForms/gf2014026724" to "cg",
+        "http://id.loc.gov/authorities/genreForms/gf2014026713" to "ch",
+        "http://id.loc.gov/authorities/genreForms/gf2014026712" to "cl",
+        "http://id.loc.gov/authorities/genreForms/gf2014026687" to "cn",
+        "http://id.loc.gov/authorities/genreForms/gf2014026725" to "co",
+        "http://id.loc.gov/authorities/genreForms/gf2014027007" to "cp",
+        "http://id.loc.gov/authorities/genreForms/gf2014026695" to "cr",
+        "http://id.loc.gov/authorities/genreForms/gf2014026624" to "cs",
+        "http://id.loc.gov/authorities/genreForms/gf2014026688" to "ct",
+        "http://id.loc.gov/authorities/genreForms/gf2014026739" to "cy",
+        "http://id.loc.gov/authorities/genreForms/gf2018026012" to "cz",
+        "http://id.loc.gov/authorities/genreForms/gf2014026753" to "df",
+        "http://id.loc.gov/authorities/genreForms/gf2014026818" to "fg",
+        "http://id.loc.gov/authorities/genreForms/gf2014026806" to "fl",
+        "http://id.loc.gov/authorities/genreForms/gf2014026809" to "fm",
+        "http://id.loc.gov/authorities/genreForms/gf2018026018" to "ft",
+        "http://id.loc.gov/authorities/genreForms/gf2014026839" to "gm",
+        "http://id.loc.gov/authorities/genreForms/gf2014026872" to "hy",
+        "http://id.loc.gov/authorities/genreForms/gf2014026879" to "jz",
+        "http://id.loc.gov/authorities/genreForms/gf2014027050" to "mc",
+        "http://id.loc.gov/authorities/genreForms/gf2014026915" to "md",
+        "http://id.loc.gov/authorities/genreForms/gf2014026940" to "mi",
+        "http://id.loc.gov/authorities/genreForms/gf2014026949" to "mo",
+        "http://id.loc.gov/authorities/genreForms/gf2014026950" to "mp",
+        "http://id.loc.gov/authorities/genreForms/gf2014026922" to "mr",
+        "http://id.loc.gov/authorities/genreForms/gf2014026926" to "ms",
+        "http://id.loc.gov/authorities/genreForms/gf2014026928" to "mz",
+        "http://id.loc.gov/authorities/genreForms/gf2017026144" to "nc",
+        "http://id.loc.gov/authorities/genreForms/gf2014026976" to "op",
+        "http://id.loc.gov/authorities/genreForms/gf2014026977" to "or",
+        "http://id.loc.gov/authorities/genreForms/gf2014026980" to "ov",
+        "http://id.loc.gov/authorities/genreForms/gf2014027017" to "pg",
+        "http://id.loc.gov/authorities/genreForms/gf2014026861" to "pm",
+        "http://id.loc.gov/authorities/genreForms/gf2014027005" to "po",
+        "http://id.loc.gov/authorities/genreForms/gf2014027009" to "pp",
+        "http://id.loc.gov/authorities/genreForms/gf2014027013" to "pr",
+        "http://id.loc.gov/authorities/genreForms/gf2014026989" to "ps",
+        "http://id.loc.gov/authorities/genreForms/gf2014026984" to "pt",
+        "http://id.loc.gov/authorities/genreForms/gf2014026994" to "pv",
+        "http://id.loc.gov/authorities/genreForms/gf2014027054" to "rc",
+        "http://id.loc.gov/authorities/genreForms/gf2014027057" to "rd",
+        "http://id.loc.gov/authorities/genreForms/gf2014027034" to "rg",
+        "http://id.loc.gov/authorities/genreForms/gf2017026128" to "ri",
+        "http://id.loc.gov/authorities/genreForms/gf2014027051" to "rp",
+        "http://id.loc.gov/authorities/genreForms/gf2014027048" to "rq",
+        "http://id.loc.gov/authorities/genreForms/gf2014027111" to "sd",
+        "http://id.loc.gov/authorities/genreForms/gf2014027103" to "sg",
+        "http://id.loc.gov/authorities/genreForms/gf2014027099" to "sn",
+        "http://id.loc.gov/authorities/genreForms/gf2014027120" to "sp",
+        "http://id.loc.gov/authorities/genreForms/gf2014027115" to "st",
+        "http://id.loc.gov/authorities/genreForms/gf2014027116" to "su",
+        "http://id.loc.gov/authorities/genreForms/gf2014027121" to "sy",
+        "http://id.loc.gov/authorities/genreForms/gf2014027140" to "tc",
+        "http://id.loc.gov/authorities/genreForms/gf2017026025" to "vi",
+        "http://id.loc.gov/authorities/genreForms/gf2014027156" to "vr",
+        "http://id.loc.gov/authorities/genreForms/gf2014027167" to "wz",
+        "http://id.loc.gov/authorities/genreForms/gf2016026059" to "za"
+    )
+
+    fun lookup(value: Value): String? {
+        return MAP[value.stringValue()]
+    }
+}

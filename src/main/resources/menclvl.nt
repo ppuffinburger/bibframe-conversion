@@ -1,0 +1,38 @@
+<http://id.loc.gov/vocabulary/menclvl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/menclvl/1> .
+<http://id.loc.gov/vocabulary/menclvl/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/menclvl/1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "full not examined" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/menclvl/5> .
+<http://id.loc.gov/vocabulary/menclvl/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/menclvl/5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "preliminary" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/menclvl/7> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "minimal" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/menclvl/4> .
+<http://id.loc.gov/vocabulary/menclvl/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/menclvl/4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "core" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/menclvl/3> .
+<http://id.loc.gov/vocabulary/menclvl/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/menclvl/3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "abbreviated" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/menclvl/8> .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "prepublication" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/menclvl/f> .
+<http://id.loc.gov/vocabulary/menclvl/f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/menclvl/f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "full" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.w3.org/2000/01/rdf-schema#label> "Encoding Level"@en .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Degree of completeness of the cataloging metadata."@en .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b38iddOtlocdOtgovvocabularymenclvl .
+_:b38iddOtlocdOtgovvocabularymenclvl <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b38iddOtlocdOtgovvocabularymenclvl <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b38iddOtlocdOtgovvocabularymenclvl <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-07-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b38iddOtlocdOtgovvocabularymenclvl <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.w3.org/2004/02/skos/core#definition> "Degree of completeness of the cataloging metadata."@en .
+<http://id.loc.gov/vocabulary/menclvl> <http://www.w3.org/2004/02/skos/core#changeNote> _:b53iddOtlocdOtgovvocabularymenclvl .
+_:b53iddOtlocdOtgovvocabularymenclvl <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b53iddOtlocdOtgovvocabularymenclvl <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/menclvl> .
+_:b53iddOtlocdOtgovvocabularymenclvl <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b53iddOtlocdOtgovvocabularymenclvl <http://purl.org/vocab/changeset/schema#createdDate> "2017-07-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b53iddOtlocdOtgovvocabularymenclvl <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

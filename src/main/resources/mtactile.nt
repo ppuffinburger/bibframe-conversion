@@ -1,0 +1,38 @@
+<http://id.loc.gov/vocabulary/mtactile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtactile/math> .
+<http://id.loc.gov/vocabulary/mtactile/math> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtactile/math> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "mathematics braille code" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtactile/brail> .
+<http://id.loc.gov/vocabulary/mtactile/brail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtactile/brail> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "braille code" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtactile/graph> .
+<http://id.loc.gov/vocabulary/mtactile/graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtactile/graph> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "tactile graphic" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtactile/music> .
+<http://id.loc.gov/vocabulary/mtactile/music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtactile/music> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "music braille code" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtactile/moon> .
+<http://id.loc.gov/vocabulary/mtactile/moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtactile/moon> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moon code" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtactile/comp> .
+<http://id.loc.gov/vocabulary/mtactile/comp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtactile/comp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "computing braille code" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mtactile/tactm> .
+<http://id.loc.gov/vocabulary/mtactile/tactm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mtactile/tactm> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "tactile music notation" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.w3.org/2000/01/rdf-schema#label> "Tactile Notation"@en .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#definitionNote> "A set of characters and/or symbols used to express the content of a resource in a form that can be perceived through touch"@en .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b38iddOtlocdOtgovvocabularymtactile .
+_:b38iddOtlocdOtgovvocabularymtactile <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b38iddOtlocdOtgovvocabularymtactile <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b38iddOtlocdOtgovvocabularymtactile <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2022-05-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b38iddOtlocdOtgovvocabularymtactile <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.w3.org/2004/02/skos/core#definition> "A set of characters and/or symbols used to express the content of a resource in a form that can be perceived through touch"@en .
+<http://id.loc.gov/vocabulary/mtactile> <http://www.w3.org/2004/02/skos/core#changeNote> _:b53iddOtlocdOtgovvocabularymtactile .
+_:b53iddOtlocdOtgovvocabularymtactile <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b53iddOtlocdOtgovvocabularymtactile <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mtactile> .
+_:b53iddOtlocdOtgovvocabularymtactile <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b53iddOtlocdOtgovvocabularymtactile <http://purl.org/vocab/changeset/schema#createdDate> "2022-05-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b53iddOtlocdOtgovvocabularymtactile <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

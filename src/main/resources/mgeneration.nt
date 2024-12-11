@@ -1,0 +1,68 @@
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/servcopy> .
+<http://id.loc.gov/vocabulary/mgeneration/servcopy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/servcopy> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "service copy" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/tapedupe> .
+<http://id.loc.gov/vocabulary/mgeneration/tapedupe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/tapedupe> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "tape duplication master" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/dervmaster> .
+<http://id.loc.gov/vocabulary/mgeneration/dervmaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/dervmaster> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "derivative master" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/facsimile> .
+<http://id.loc.gov/vocabulary/mgeneration/facsimile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/facsimile> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "facsimile" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/refprint> .
+<http://id.loc.gov/vocabulary/mgeneration/refprint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/refprint> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "reference print" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/firstgen> .
+<http://id.loc.gov/vocabulary/mgeneration/firstgen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/firstgen> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "first generation" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/stamper> .
+<http://id.loc.gov/vocabulary/mgeneration/stamper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/stamper> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "stamper" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/masterpos> .
+<http://id.loc.gov/vocabulary/mgeneration/masterpos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/masterpos> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "master positive" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/mastertape> .
+<http://id.loc.gov/vocabulary/mgeneration/mastertape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/mastertape> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "master tape" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/originalneg> .
+<http://id.loc.gov/vocabulary/mgeneration/originalneg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/originalneg> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "original negative" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/printmaster> .
+<http://id.loc.gov/vocabulary/mgeneration/printmaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/printmaster> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "printing master" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/paperpos> .
+<http://id.loc.gov/vocabulary/mgeneration/paperpos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/paperpos> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "paper positive" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/master> .
+<http://id.loc.gov/vocabulary/mgeneration/master> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/master> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "master" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/original> .
+<http://id.loc.gov/vocabulary/mgeneration/original> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/original> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "original" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/reversal> .
+<http://id.loc.gov/vocabulary/mgeneration/reversal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/reversal> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "reversal" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/discmaster> .
+<http://id.loc.gov/vocabulary/mgeneration/discmaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/discmaster> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "disc master" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/dupe> .
+<http://id.loc.gov/vocabulary/mgeneration/dupe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/dupe> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "duplicate" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/mixedgen> .
+<http://id.loc.gov/vocabulary/mgeneration/mixedgen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/mixedgen> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "mixed generation" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/testpress> .
+<http://id.loc.gov/vocabulary/mgeneration/testpress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/testpress> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "test pressing" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mgeneration/mother> .
+<http://id.loc.gov/vocabulary/mgeneration/mother> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mgeneration/mother> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "mother" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.w3.org/2000/01/rdf-schema#label> "Generation"@en .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Relationship between an original carrier and the carrier of a reproduction made from the original"@en .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib ; 340 $j; 007sr/09; 007mpic/mi/11"@en .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.w3.org/2004/02/skos/core#definition> "Relationship between an original carrier and the carrier of a reproduction made from the original"@en .
+<http://id.loc.gov/vocabulary/mgeneration> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib ; 340 $j; 007sr/09; 007mpic/mi/11"@en .

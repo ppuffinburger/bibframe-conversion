@@ -1,0 +1,67 @@
+<http://id.loc.gov/vocabulary/mlayout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/barby> .
+<http://id.loc.gov/vocabulary/mlayout/barby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/barby> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "bar by bar" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/sectby> .
+<http://id.loc.gov/vocabulary/mlayout/sectby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/sectby> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "section by section" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/barover> .
+<http://id.loc.gov/vocabulary/mlayout/barover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/barover> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "bar over bar" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/lineby> .
+<http://id.loc.gov/vocabulary/mlayout/lineby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/lineby> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "line by line" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/backto> .
+<http://id.loc.gov/vocabulary/mlayout/backto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/backto> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "back to back" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/singln> .
+<http://id.loc.gov/vocabulary/mlayout/singln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/singln> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "single line" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/melcho> .
+<http://id.loc.gov/vocabulary/mlayout/melcho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/melcho> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "melody chord system" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/para> .
+<http://id.loc.gov/vocabulary/mlayout/para> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/para> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "paragraph" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/dblsp> .
+<http://id.loc.gov/vocabulary/mlayout/dblsp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/dblsp> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "double line spacing" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/dblsd> .
+<http://id.loc.gov/vocabulary/mlayout/dblsd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/dblsd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "double sided" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/opensc> .
+<http://id.loc.gov/vocabulary/mlayout/opensc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/opensc> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "open score" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/short> .
+<http://id.loc.gov/vocabulary/mlayout/short> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/short> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "short form scoring" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/outl> .
+<http://id.loc.gov/vocabulary/mlayout/outl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/outl> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "outline" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/singsd> .
+<http://id.loc.gov/vocabulary/mlayout/singsd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/singsd> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "single sided" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/lineover> .
+<http://id.loc.gov/vocabulary/mlayout/lineover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/lineover> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "line over line" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mlayout/both> .
+<http://id.loc.gov/vocabulary/mlayout/both> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mlayout/both> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "both sides" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.w3.org/2000/01/rdf-schema#label> "Layout"@en .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Arrangement of text, images, tactile notation, etc. in a resource"@en .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 340 $k"@en .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b76iddOtlocdOtgovvocabularymlayout .
+_:b76iddOtlocdOtgovvocabularymlayout <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b76iddOtlocdOtgovvocabularymlayout <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b76iddOtlocdOtgovvocabularymlayout <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b76iddOtlocdOtgovvocabularymlayout <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.w3.org/2004/02/skos/core#definition> "Arrangement of text, images, tactile notation, etc. in a resource"@en .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 340 $k"@en .
+<http://id.loc.gov/vocabulary/mlayout> <http://www.w3.org/2004/02/skos/core#changeNote> _:b93iddOtlocdOtgovvocabularymlayout .
+_:b93iddOtlocdOtgovvocabularymlayout <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b93iddOtlocdOtgovvocabularymlayout <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mlayout> .
+_:b93iddOtlocdOtgovvocabularymlayout <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b93iddOtlocdOtgovvocabularymlayout <http://purl.org/vocab/changeset/schema#createdDate> "2017-09-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b93iddOtlocdOtgovvocabularymlayout <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .

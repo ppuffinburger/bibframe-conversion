@@ -1,0 +1,55 @@
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MADSScheme> .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/mproj> .
+<http://id.loc.gov/vocabulary/mpresformat/mproj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/mproj> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "multiprojector" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/cinem> .
+<http://id.loc.gov/vocabulary/mpresformat/cinem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/cinem> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cinemiracle" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/imax> .
+<http://id.loc.gov/vocabulary/mpresformat/imax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/imax> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "IMAX" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/sound> .
+<http://id.loc.gov/vocabulary/mpresformat/sound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/sound> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "standard sound aperture" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/tech> .
+<http://id.loc.gov/vocabulary/mpresformat/tech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/tech> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Techniscope" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/mscreen> .
+<http://id.loc.gov/vocabulary/mpresformat/mscreen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/mscreen> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "multiscreen" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/pana> .
+<http://id.loc.gov/vocabulary/mpresformat/pana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/pana> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Panavision" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/3d> .
+<http://id.loc.gov/vocabulary/mpresformat/3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/3d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "3D" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/silent> .
+<http://id.loc.gov/vocabulary/mpresformat/silent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/silent> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "standard silent aperture" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/circa> .
+<http://id.loc.gov/vocabulary/mpresformat/circa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/circa> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Circarama" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/stereo> .
+<http://id.loc.gov/vocabulary/mpresformat/stereo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/stereo> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "stereoscopic" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#hasMADSSchemeMember> <http://id.loc.gov/vocabulary/mpresformat/ciner> .
+<http://id.loc.gov/vocabulary/mpresformat/ciner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/mpresformat/ciner> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cinerama" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.w3.org/2000/01/rdf-schema#label> "Presentation Format"@en .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#definitionNote> "Format used in the production of a projected image"@en .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#historyNote> "MARC bib: 345 $a; 007mpic/04"@en .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:b60iddOtlocdOtgovvocabularympresformat .
+_:b60iddOtlocdOtgovvocabularympresformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> .
+_:b60iddOtlocdOtgovvocabularympresformat <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b60iddOtlocdOtgovvocabularympresformat <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-11-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b60iddOtlocdOtgovvocabularympresformat <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <https://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.w3.org/2004/02/skos/core#definition> "Format used in the production of a projected image"@en .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.w3.org/2004/02/skos/core#historyNote> "MARC bib: 345 $a; 007mpic/04"@en .
+<http://id.loc.gov/vocabulary/mpresformat> <http://www.w3.org/2004/02/skos/core#changeNote> _:b77iddOtlocdOtgovvocabularympresformat .
+_:b77iddOtlocdOtgovvocabularympresformat <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> .
+_:b77iddOtlocdOtgovvocabularympresformat <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/vocabulary/mpresformat> .
+_:b77iddOtlocdOtgovvocabularympresformat <http://purl.org/vocab/changeset/schema#creatorName> <https://id.loc.gov/vocabulary/organizations/dlc> .
+_:b77iddOtlocdOtgovvocabularympresformat <http://purl.org/vocab/changeset/schema#createdDate> "2017-11-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b77iddOtlocdOtgovvocabularympresformat <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> .
