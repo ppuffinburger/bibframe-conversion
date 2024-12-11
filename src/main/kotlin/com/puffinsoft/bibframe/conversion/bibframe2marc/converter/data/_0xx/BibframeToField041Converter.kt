@@ -169,7 +169,7 @@ internal class BibframeToField041Converter : BibframeToMarcConverter {
 
         fun lookup(part: Value?): Char {
             if (part == null) {
-                return 'a';
+                return 'a'
             }
             return partsToNameMap[part.stringValue()] ?: 'a'
         }

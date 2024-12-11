@@ -85,7 +85,7 @@ internal class BibframeToField650Converter : BibframeToMarcConverter {
 
             if (builder.indicator2 == '7') {
                 if (it.source == null) {
-                    addSubfieldIfExists(builder, '2', TextUtils.getCodeStringFromUrl(it.uri?.stringValue()?.substringBeforeLast("/") ?: ""))
+                    addSubfieldIfExists(builder, '2', TextUtils.getCodeStringFromUrl(it.uri.stringValue()?.substringBeforeLast("/") ?: ""))
                 } else {
                     addSourceSubfieldIfExists(builder, it.source)
                 }

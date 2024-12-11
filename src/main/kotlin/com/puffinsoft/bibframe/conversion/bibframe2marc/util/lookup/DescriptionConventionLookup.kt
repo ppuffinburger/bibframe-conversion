@@ -13,7 +13,7 @@ internal object DescriptionConventionLookup {
 
     init {
         try {
-            val repo = SailRepository(MemoryStore());
+            val repo = SailRepository(MemoryStore())
             repo.connection.use { conn ->
                 javaClass.getResourceAsStream("/descriptionConventions.nt").use {
                     conn.add(it, RDFFormat.NTRIPLES)

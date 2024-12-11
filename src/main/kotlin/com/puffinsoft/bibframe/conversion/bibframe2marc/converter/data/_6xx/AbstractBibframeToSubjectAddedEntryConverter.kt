@@ -5,7 +5,6 @@ import com.puffinsoft.bibframe.conversion.BIBFRAME_ONTOLOGY
 import com.puffinsoft.bibframe.conversion.LOC_MADS_RDF
 import com.puffinsoft.bibframe.conversion.bibframe2marc.converter.BibframeToMarcConverter
 import com.puffinsoft.bibframe.conversion.bibframe2marc.util.MarcKeyUtils
-import com.puffinsoft.bibframe.conversion.bibframe2marc.util.SingleIndicatorConfig
 import org.eclipse.rdf4j.model.Value
 import org.eclipse.rdf4j.repository.RepositoryConnection
 import org.marc4k.marc.DataFieldBuilder

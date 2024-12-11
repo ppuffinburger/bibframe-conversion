@@ -13,7 +13,7 @@ internal object NoteTypeLookup {
 
     init {
         try {
-            val repo = SailRepository(MemoryStore());
+            val repo = SailRepository(MemoryStore())
             repo.connection.use { conn ->
                 javaClass.getResourceAsStream("/mnotetype.nt").use {
                     conn.add(it, RDFFormat.NTRIPLES)

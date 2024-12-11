@@ -13,7 +13,7 @@ internal object StatusCodeLookup {
 
     init {
         try {
-            val repo = SailRepository(MemoryStore());
+            val repo = SailRepository(MemoryStore())
             repo.connection.use { conn ->
                 javaClass.getResourceAsStream("/mstatus.nt").use {
                     conn.add(it, RDFFormat.NTRIPLES)

@@ -12,7 +12,7 @@ internal object LanguageLookup {
 
     init {
         try {
-            val repo = SailRepository(MemoryStore());
+            val repo = SailRepository(MemoryStore())
             repo.connection.use { conn ->
                 javaClass.getResourceAsStream("/languages.nt").use {
                     conn.add(it, RDFFormat.NTRIPLES)

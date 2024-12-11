@@ -3,7 +3,6 @@ package com.puffinsoft.bibframe.conversion.bibframe2marc.converter.data._0xx
 import com.puffinsoft.bibframe.conversion.BIBFRAME_ONTOLOGY
 import com.puffinsoft.bibframe.conversion.bibframe2marc.WorkData
 import com.puffinsoft.bibframe.conversion.bibframe2marc.converter.BibframeToMarcConverter
-import com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup.StatusCodeLookup
 import org.eclipse.rdf4j.model.Value
 import org.eclipse.rdf4j.repository.RepositoryConnection
 import org.marc4k.marc.DataFieldBuilder

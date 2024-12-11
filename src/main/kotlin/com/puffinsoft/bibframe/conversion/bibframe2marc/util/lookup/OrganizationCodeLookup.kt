@@ -13,7 +13,7 @@ internal object OrganizationCodeLookup {
 
     init {
         try {
-            val repo = SailRepository(MemoryStore());
+            val repo = SailRepository(MemoryStore())
             repo.connection.use { conn ->
                 GZIPInputStream(javaClass.getResourceAsStream("/organizations.madsrdf.ttl.gz")).use { gis ->
                     conn.add(gis, RDFFormat.TURTLE)

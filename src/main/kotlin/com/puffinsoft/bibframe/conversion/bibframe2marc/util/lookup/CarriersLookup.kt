@@ -13,7 +13,7 @@ internal object CarriersLookup {
 
     init {
         try {
-            val repo = SailRepository(MemoryStore());
+            val repo = SailRepository(MemoryStore())
             repo.connection.use { conn ->
                 javaClass.getResourceAsStream("/carriers.nt").use {
                     conn.add(it, RDFFormat.NTRIPLES)

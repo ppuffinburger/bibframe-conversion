@@ -4,7 +4,6 @@ import com.puffinsoft.bibframe.conversion.BIBFRAME_LC_EXTENSION_ONTOLOGY
 import com.puffinsoft.bibframe.conversion.BIBFRAME_ONTOLOGY
 import com.puffinsoft.bibframe.conversion.bibframe2marc.WorkData
 import com.puffinsoft.bibframe.conversion.bibframe2marc.converter.BibframeToMarcConverter
-import com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup.*
 import com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup.FormOfItemLookup
 import com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup.GovernmentPublicationLookup
 import com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup.NatureOfContentsLookup

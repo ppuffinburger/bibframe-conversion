@@ -5,7 +5,6 @@ import com.puffinsoft.bibframe.conversion.bibframe2marc.WorkData
 import com.puffinsoft.bibframe.conversion.bibframe2marc.converter.BibframeToMarcConverter
 import com.puffinsoft.bibframe.conversion.bibframe2marc.util.TextUtils
 import com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup.OrganizationCodeLookup
-import com.puffinsoft.bibframe.conversion.bibframe2marc.util.lookup.StatusCodeLookup
 import org.eclipse.rdf4j.model.Value
 import org.eclipse.rdf4j.repository.RepositoryConnection
 import org.marc4k.marc.DataFieldBuilder

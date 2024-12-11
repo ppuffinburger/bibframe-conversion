@@ -12,7 +12,6 @@ import org.eclipse.rdf4j.model.Value
 import org.eclipse.rdf4j.query.impl.SimpleBinding
 import org.eclipse.rdf4j.repository.RepositoryConnection
 import org.marc4k.marc.DataFieldBuilder
-import org.marc4k.marc.Subfield
 import org.marc4k.marc.marc21.bibliographic.BibliographicRecord
 
 internal abstract class AbstractBibframeToAddedEntryNameConverter : BibframeToMarcConverter {

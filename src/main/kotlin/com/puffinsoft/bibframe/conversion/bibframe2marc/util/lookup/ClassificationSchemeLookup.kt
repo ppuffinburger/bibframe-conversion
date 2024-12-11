@@ -13,7 +13,7 @@ internal object ClassificationSchemeLookup {
 
     init {
         try {
-            val repo = SailRepository(MemoryStore());
+            val repo = SailRepository(MemoryStore())
             repo.connection.use { conn ->
                 javaClass.getResourceAsStream("/classSchemes.nt").use {
                     conn.add(it, RDFFormat.NTRIPLES)
